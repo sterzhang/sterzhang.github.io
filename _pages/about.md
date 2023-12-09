@@ -64,8 +64,8 @@ My research interests mainly focus on "AI For Good Use", broadly lie in :
 
 # 📖 Educations
 - *2021.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. Major in Cyberspace Security. 
-- *2018.09 - 2021.07*, Senior Middle School, [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/), China.
-- *2015.09 - 2018.07*, Junior Middle School,  [Shenzhen Futian Experimental Education Group (深圳市福田区实验教育集团)](https://qxwy.szftedu.cn/), China.
+- *2018.09 - 2021.07*, Senior Middle School, [Shenzhen Middle School](https://www.shenzhong.net/), China.
+- *2015.09 - 2018.07*, Junior Middle School,  [Shenzhen Futian Experimental Education Group](https://qxwy.szftedu.cn/), China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
