@@ -31,7 +31,7 @@ My research interests mainly focus on "AI For Good Use", broadly lie in :
 
 
 # 🔥 News
-- *2023.10*: &nbsp; One paper is accepted by ICASSP 2024.
+- *2023.12*: &nbsp; One paper is accepted by ICASSP 2024.👏👏
 - *2023.10*: &nbsp; 2022-2023 Third Class Scholarship & 2022-2023 Merit Student 
 - *2023.07*: &nbsp; Get an intership offer by Tencent IEG (Interactive Entertainment Group)
 - *2023.05*: &nbsp; First Prize(4.5% nationwide), Huazhong Contest in Mathematical Modeling
