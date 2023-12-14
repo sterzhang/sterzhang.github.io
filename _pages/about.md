@@ -31,20 +31,20 @@ My research interests mainly focus on "AI For Good Use", broadly lie in :
 
 
 # 🔥 News
+- *2023.10*: &nbsp; One paper is accepted by ICASSP 2024.
 - *2023.10*: &nbsp; 2022-2023 Third Class Scholarship & 2022-2023 Merit Student 
-- *2023.07*: &nbsp; Got an intership offer by Tencent IEG (Interactive Entertainment Group)
+- *2023.07*: &nbsp; Get an intership offer by Tencent IEG (Interactive Entertainment Group)
 - *2023.05*: &nbsp; First Prize(4.5% nationwide), Huazhong Contest in Mathematical Modeling
 - *2022.10*: &nbsp; 2021-2022 Third Class Scholarship & 2021-2022 Merit Student 
 
 # 📝 Publications 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
-## 🖨️In submission & Preprint
 - [FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)
 
-  Dongyu Yao, **Jianshu Zhang**, Ian G. Harris<sup>*</sup> , Marcel Carlsson
+  Dongyu Yao<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
-  A preprint version
+  [*International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php)
 
 
 # 🏆 Honors and Awards
