@@ -55,7 +55,7 @@ My research interests mainly focus on "AI For Good Use", broadly lie in :
 
 # 📁 Project Experience
 - *2023.10 - now*:     &nbsp; Developing different **Cryptographic algorithms** and synchronously updating in repository of [Cryptology](https://github.com/sterzhang/Cryptology).
-- *2023.07 - 2023.09*: &nbsp; Develop **a tool for proactively discovering Jailbreak Vulnerabilities in Large Language Models**. The corresponding paper, "A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models," is currently under review by ICASSP.
+- *2023.07 - 2023.09*: &nbsp; Develop **a tool for proactively discovering Jailbreak Vulnerabilities in Large Language Models**. The corresponding paper, "A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models," is accepted by ICASSP.
 - *2023.05 - 2023.07*: &nbsp; Participated in **The Competition of Chinese Abstract Meaning Representation Parsing 2023**, demonstrating exceptional performance with F-scores of 0.7687, 0.7004, and 0.7859  on three official test sets.
 - *2023.05 - 2023.06*: &nbsp; Developed **a comprehensive basketball statistics analysis system** that enables efficient analysis of game data and team information, incorporating a wide range of functionalities for both users and administrators.
 - *2023.05 - 2023.05*: &nbsp; Developed a  **Similarity And Difficulty Judging Program** for Mathematics Application Problem.
