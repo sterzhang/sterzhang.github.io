@@ -51,7 +51,7 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
 
 
 # 📁 Project Experience
-- *2023.12 - 2023.01*:     &nbsp; Utilize HDFS and SPARK to finish a project named **Using ArXiv to analyse the academic frontier of Computer Science ** and find several really interesting features of the ArXiv submission, the project is open-source in my Github [sterzhang/BigData_Arxiv_Analysis](https://github.com/sterzhang/BigData_Arxiv_Analysis).
+- *2023.12 - 2023.01*:     &nbsp; Utilize HDFS and SPARK to finish a project named **Using ArXiv to analyse the academic frontier of Computer Science** and find several really interesting features of the ArXiv submission, the project is open-source in my Github [sterzhang/BigData_Arxiv_Analysis](https://github.com/sterzhang/BigData_Arxiv_Analysis).
 - *2023.10 - 2023.12*:     &nbsp; Developing different **Cryptographic algorithms** and synchronously open source in my Github  [sterzhang/Cryptology](https://github.com/sterzhang/Cryptology).
 - *2023.07 - 2023.09*: &nbsp; Develop **a tool for proactively discovering Jailbreak Vulnerabilities in Large Language Models**. The corresponding paper, "A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models," is accepted by ICASSP24.
 - *2023.05 - 2023.07*: &nbsp; Participated in **The Competition of Chinese Abstract Meaning Representation Parsing 2023**, demonstrating exceptional performance with F-scores of 0.7687, 0.7004, and 0.7859  on three official test sets.
