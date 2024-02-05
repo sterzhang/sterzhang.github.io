@@ -24,9 +24,9 @@ I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of 
 
 # 🔬 Research Interest
 My research interests mainly focus on "**AI For Good Use**", broadly lie in :
-* Large Language Models (Vulnerability Discovering)
-* Federated Learning (Privacy Concern and Effective Training)
-* Continual Learning (Combine with Federated Learning)
+* Large Language Models 
+* Federated Learning 
+* Continual Learning 
 
 
 
@@ -42,6 +42,10 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
   Dongyu Yao<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
   [*International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php)
+
+- [CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay](https://arxiv.org/abs/2402.01348)
+
+  **Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao<sup>&dagger;</sup>, Kun He<sup>*</sup>
 
 
 # 🏆 Honors and Awards
