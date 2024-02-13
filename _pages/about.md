@@ -48,7 +48,7 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
 
 
 # ⌛️ In Submission & Preprint
-- **[CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay](https://arxiv.org/abs/2402.01348)**
+- [**CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay**](https://arxiv.org/abs/2402.01348)
 
   **Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup>
   
