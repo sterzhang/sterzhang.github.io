@@ -47,7 +47,7 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
   Dongyu Yao<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
   
-  [2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 24)](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php) [Poster]
+  2024 IEEE International Conference on Acoustics, Speech and Signal Processing [(ICASSP 24)](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php) [Poster]
 
 
 <!-- # ⌛️ In Submission & Preprint -->
@@ -55,7 +55,7 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
 
   **Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup>
 
-  [2024 Cognitive Science Society Annual Conference (CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**]
+  2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**]
   
   
 
