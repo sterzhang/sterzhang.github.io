@@ -42,6 +42,12 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
 # 📝 Publications 
 <sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
 
+- [**CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay**](https://arxiv.org/abs/2402.01348) 
+
+  **Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup>
+
+  2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**]
+
 - [**FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models**](https://arxiv.org/abs/2309.05274) 
 
   Dongyu Yao<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
@@ -51,11 +57,7 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
 
 
 <!-- # ⌛️ In Submission & Preprint -->
-- [**CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay**](https://arxiv.org/abs/2402.01348) 
 
-  **Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup>
-
-  2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**]
   
   
 
