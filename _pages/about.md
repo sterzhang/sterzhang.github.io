@@ -34,7 +34,7 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
 
 
 # 🔥 News
-- *2024.03*: &nbsp; One paper is accepted by CogSci24 (**Oral**) ([Cognitive Science Society Annual Conference](https://cognitivesciencesociety.org/cogsci-2024/)). 👏👏
+- *2024.03*: &nbsp; One paper is accepted by CogSci24 (**Oral**) ([2024 Cognitive Science Society Annual Conference](https://cognitivesciencesociety.org/cogsci-2024/)). 👏👏
 - *2023.12*: &nbsp; One paper is accepted by ICASSP24 ([2024 IEEE International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/)).
 
 
@@ -70,15 +70,15 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
 
 
 # 📖 Educations
-- *2021.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. Major in Information Security. 
+- *2021.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. 
 - *2018.09 - 2021.07*, Senior Middle School, [Shenzhen Middle School](https://www.shenzhong.net/), China.
 - *2015.09 - 2018.07*, Junior Middle School,  [Shenzhen Futian Experimental Education Group](https://qxwy.szftedu.cn/), China.
 
 
 
 # 💻 Internships
-
-- *2022.09 - now,* Student Research Assistant at [Data Security Lab, Wuhan University](https://datasec.whu.edu.cn/), supervised by Prof. [Kun He](https://cse.whu.edu.cn/info/1262/3298.htm)
+- *2024.02 - now,* Research Assistant at [Computer Science at University of Illinois Urbana-Champaign](https://illinois.edu/), supervised by Prof. [Tong Zhang (张潼)](https://tongzhang-ml.org/)
+- *2023.09 - now,* Research Assistant at [Data Security Lab, Wuhan University](https://datasec.whu.edu.cn/), supervised by Prof. [Kun He (何琨)](https://cse.whu.edu.cn/info/1262/3298.htm)
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 - *2023.06 - 2023.09*, [Tencent](https://www.tencent.com/zh-cn/index.html), IEG (Interactive Entertainment Group), Shenzhen, China.
 
