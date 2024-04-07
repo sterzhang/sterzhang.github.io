@@ -20,21 +20,21 @@ redirect_from:
 # 😊 About Me
 
 Greetings!👋
-I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [Shenzhen Middle School](https://www.shenzhong.net/). I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
+I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [Shenzhen Middle School](https://www.shenzhong.net/). 
+My research interests mainly focus on Large Language Models, Large Mutimodal Models, and Continual Learning 
+I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
 
 
 
-# 🔬 Research Interest
-My research interests mainly focus on "**AI For Good Use**", broadly lie in :
-* Large Language Models 
-* Large Mutimodal Models
-* Continual Learning 
+<!-- # 🔬 Research Interest -->
+
 
 
 
 # 🔥 News
 - *2024.03*: &nbsp; One paper is accepted by CogSci24 (**Oral**) ([2024 Cognitive Science Society Annual Conference](https://cognitivesciencesociety.org/cogsci-2024/)). 👏👏
+- *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
 - *2023.12*: &nbsp; One paper is accepted by ICASSP24 ([2024 IEEE International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/)).
 
 
