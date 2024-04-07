@@ -77,7 +77,7 @@ My research interests mainly focus on "**AI For Good Use**", broadly lie in :
 
 
 # 💻 Internships
-- *2024.02 - now,* Research Assistant at [Computer Science at University of Illinois Urbana-Champaign](https://illinois.edu/), supervised by Prof. [Tong Zhang (张潼)](https://tongzhang-ml.org/)
+- *2024.02 - now,* Research Assistant in [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), supervised by Prof. [Tong Zhang (张潼)](https://tongzhang-ml.org/)
 - *2023.09 - now,* Research Assistant at [Data Security Lab, Wuhan University](https://datasec.whu.edu.cn/), supervised by Prof. [Kun He (何琨)](https://cse.whu.edu.cn/info/1262/3298.htm)
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 - *2023.06 - 2023.09*, [Tencent](https://www.tencent.com/zh-cn/index.html), IEG (Interactive Entertainment Group), Shenzhen, China.
