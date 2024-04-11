@@ -58,7 +58,7 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
   
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing [(ICASSP 24)](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php) [Poster] 
   
-  [[arXiv]](https://arxiv.org/abs/2309.05274) [[code]](https://github.com/RainJamesY/DIDA)
+  [[arXiv]](https://arxiv.org/abs/2309.05274) [[code]](https://github.com/RainJamesY/FuzzLLM)
 
 
 <!-- # ⌛️ In Submission & Preprint -->
