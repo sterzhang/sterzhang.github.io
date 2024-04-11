@@ -21,7 +21,8 @@ redirect_from:
 
 Greetings!👋
 I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [Shenzhen Middle School](https://www.shenzhong.net/). 
-My research interests mainly focus on Large Language Models, Large Mutimodal Models, and Continual Learning 
+
+My research interests mainly focus on **Large Language Models, Large Mutimodal Models, and Continual Learning**. 
 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
 
 
@@ -46,14 +47,18 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
   **Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup>
 
-  2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**]
+  2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**] 
+  
+  [[arXiv]]((https://arxiv.org/abs/2402.01348)) [[Code]](https://github.com/sterzhang/CORE)
 
-- [**FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models**](https://arxiv.org/abs/2309.05274) 
+- [**FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models**](https://ieeexplore.ieee.org/document/10448041)
 
   Dongyu Yao<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
   
-  2024 IEEE International Conference on Acoustics, Speech and Signal Processing [(ICASSP 24)](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php) [Poster]
+  2024 IEEE International Conference on Acoustics, Speech and Signal Processing [(ICASSP 24)](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php) [Poster] 
+  
+  [[arXiv]](https://arxiv.org/abs/2309.05274) [[code]](https://github.com/RainJamesY/DIDA)
 
 
 <!-- # ⌛️ In Submission & Preprint -->
@@ -63,9 +68,10 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
 
 # 🏆 Honors and Awards
-- *2023.10*: &nbsp; **2022-2023 Third Class Scholarship** & **2022-2023 Merit Student** (both 10% school-wide) of WHU
+- *2023.12*: &nbsp; **Advanced Individual in Scientific Innovation** of School of Cyber Science and Engineering
+- *2023.10*: &nbsp; **2022-2023 Merit Student** (both 10% school-wide) of WHU
 - *2023.05*: &nbsp; **First Prize** (4.5% nationwide), **Huazhong Contest in Mathematical Modeling**
-- *2022.10*: &nbsp; **2021-2022 Third Class Scholarship** & **2021-2022 Merit Student** (both 10% school-wide) of WHU
+- *2022.10*: &nbsp; **2021-2022 Merit Student** (both 10% school-wide) of WHU
 
 
 
