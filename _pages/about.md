@@ -49,7 +49,7 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
   2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**] 
   
-  [[arXiv]]((https://arxiv.org/abs/2402.01348)) [[Code]](https://github.com/sterzhang/CORE)
+  [[arXiv](https://arxiv.org/abs/2402.01348)][[Code](https://github.com/sterzhang/CORE)]
 
 - [**FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models**](https://ieeexplore.ieee.org/document/10448041)
 
@@ -58,7 +58,7 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
   
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing [(ICASSP 24)](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php) [Poster] 
   
-  [[arXiv]](https://arxiv.org/abs/2309.05274) [[code]](https://github.com/RainJamesY/FuzzLLM)
+  [[arXiv](https://arxiv.org/abs/2309.05274)] [[code](https://github.com/RainJamesY/FuzzLLM)]
 
 
 <!-- # ⌛️ In Submission & Preprint -->
