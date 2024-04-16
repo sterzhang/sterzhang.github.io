@@ -69,9 +69,9 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
 # 🏆 Honors and Awards
 - *2023.12*: &nbsp; **Advanced Individual in Scientific Innovation** of School of Cyber Science and Engineering
-- *2023.10*: &nbsp; **2022-2023 Merit Student** (both 10% school-wide) of WHU
-- *2023.05*: &nbsp; **First Prize** (4.5% nationwide), **Huazhong Contest in Mathematical Modeling**
-- *2022.10*: &nbsp; **2021-2022 Merit Student** (both 10% school-wide) of WHU
+- *2023.10*: &nbsp; **2022-2023 Merit Student** (*10% school-wide*) of WHU
+- *2023.05*: &nbsp; **First Prize** (*4.5% nationwide*), **Huazhong Contest in Mathematical Modeling**
+- *2022.10*: &nbsp; **2021-2022 Merit Student** (*10% school-wide*) of WHU
 
 
 
