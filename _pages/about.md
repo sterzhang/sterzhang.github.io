@@ -20,7 +20,7 @@ redirect_from:
 # 😊 About Me
 
 Greetings!👋
-I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [Shenzhen Middle School](https://www.shenzhong.net/). 
+I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/). 
 
 My research interests mainly focus on **Large Language Models, Large Mutimodal Models, and Continual Learning**. 
 I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
@@ -69,9 +69,9 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
 # 🏆 Honors and Awards
 - *2023.12*: &nbsp; **Advanced Individual in Scientific Innovation** of School of Cyber Science and Engineering
-- *2023.10*: &nbsp; **2022-2023 Merit Student** (*10% school-wide*) of WHU
+- *2023.10*: &nbsp; **2022-2023 Merit Student** (*15% school-wide*) of WHU, 
 - *2023.05*: &nbsp; **First Prize** (*4.5% nationwide*), **Huazhong Contest in Mathematical Modeling**
-- *2022.10*: &nbsp; **2021-2022 Merit Student** (*10% school-wide*) of WHU
+- *2022.10*: &nbsp; **2021-2022 Merit Student** (*15% school-wide*) of WHU
 
 
 
