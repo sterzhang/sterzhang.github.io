@@ -34,6 +34,7 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
 
 # 🔥 News
+- *2024.05*: &nbsp; Won **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide).
 - *2024.03*: &nbsp; One paper is accepted by CogSci24 (**Oral**) ([2024 Cognitive Science Society Annual Conference](https://cognitivesciencesociety.org/cogsci-2024/)). 👏👏
 - *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
 - *2023.12*: &nbsp; One paper is accepted by ICASSP24 ([2024 IEEE International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/)).
@@ -68,6 +69,7 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
 
 
 # 🏆 Honors and Awards
+- *2024.05*: &nbsp; **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
 - *2023.12*: &nbsp; **Advanced Individual in Scientific Innovation** of School of Cyber Science and Engineering
 - *2023.10*: &nbsp; **2022-2023 Merit Student** (*15% school-wide*) of WHU, 
 - *2023.05*: &nbsp; **First Prize** (*4.5% nationwide*), **Huazhong Contest in Mathematical Modeling**
