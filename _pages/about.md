@@ -23,8 +23,8 @@ Greetings!👋
 I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  
 <!-- Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/).  -->
 
-My research interests mainly focus on **Large Language Models, Large Mutimodal Models, and Continual Learning**. 
-I’m open to any possible discussions or collaborate opportunities. If you’re interested in working with me, don’t hesitate to drop me an email!
+My research interests mainly focus on **Large Language Models, Mutimodal Large Language Models, and Continual Learning**. 
+Currently, I'm actively seeking Ph.D. positions to further pursue my research goals. Feel free to connect and discuss exciting opportunities or collaborations!
 
 
 
@@ -63,8 +63,25 @@ I’m open to any possible discussions or collaborate opportunities. If you’re
   [[arXiv](https://arxiv.org/abs/2309.05274)] [[code](https://github.com/RainJamesY/FuzzLLM)]
 
 
-<!-- # ⌛️ In Submission & Preprint -->
+## ⌛️ In Submission & Preprint
+  - [**Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions**](https://arxiv.org/pdf/2406.07502) 
 
+  Renjie Pi<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup> 
+
+  [[arXiv](https://arxiv.org/pdf/2406.07502)] [[code](https://github.com/sterzhang/image-textualization)]
+
+  - [**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**](https://arxiv.org/pdf/2401.02906) 
+
+  Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup> 
+
+  [[arXiv](https://arxiv.org/pdf/2401.02906)] [[code](https://github.com/pipilurj/MLLM-protector)]
+ 
+  - **FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation**
+
+  KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza 
+
+  [[arXiv]()] [[code]()]
+ 
   
   
 
