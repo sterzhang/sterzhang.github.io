@@ -66,21 +66,21 @@ Currently, I'm actively seeking Ph.D. positions to further pursue my research go
 ## ⌛️ In Submission & Preprint
   - [**Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions**](https://arxiv.org/pdf/2406.07502) 
 
-  Renjie Pi<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup> 
+    Renjie Pi<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup> 
 
-  [[arXiv](https://arxiv.org/pdf/2406.07502)] [[code](https://github.com/sterzhang/image-textualization)]
+    [[arXiv](https://arxiv.org/pdf/2406.07502)] [[code](https://github.com/sterzhang/image-textualization)]
 
   - [**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**](https://arxiv.org/pdf/2401.02906) 
 
-  Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup> 
+    Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup> 
 
-  [[arXiv](https://arxiv.org/pdf/2401.02906)] [[code](https://github.com/pipilurj/MLLM-protector)]
+    [[arXiv](https://arxiv.org/pdf/2401.02906)] [[code](https://github.com/pipilurj/MLLM-protector)]
  
-  - **FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation**
+  - [**FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation**]()
 
-  KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza 
+    KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza 
 
-  [[arXiv]()] [[code]()]
+    [[arXiv]()] [[code]()]
  
   
   
