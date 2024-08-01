@@ -35,6 +35,7 @@ Currently, I'm actively seeking Ph.D. positions to further pursue my research go
 
 
 # 🔥 News
+- *2024.07*: &nbsp; Attended CogSci 2024 in Rotterdam, Netherlands, and gave an oral presentation on-site. The atmosphere is fantastic!
 - *2024.05*: &nbsp; Won **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide).
 - *2024.03*: &nbsp; One paper is accepted by CogSci24 (**Oral**) ([2024 Cognitive Science Society Annual Conference](https://cognitivesciencesociety.org/cogsci-2024/)). 👏👏
 - *2024.01*: Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
@@ -55,7 +56,7 @@ Currently, I'm actively seeking Ph.D. positions to further pursue my research go
 
 - [**FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models**](https://ieeexplore.ieee.org/document/10448041)
 
-  Dongyu Yao<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
+  **Jianshu Zhang**<sup>&dagger;</sup>, Dongyu Yao<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
 
   
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing [(ICASSP 24)](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php) [Poster] 
@@ -66,19 +67,19 @@ Currently, I'm actively seeking Ph.D. positions to further pursue my research go
 ## ⌛️ In Submission & Preprint
   - [**Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions**](https://arxiv.org/pdf/2406.07502) 
 
-    Renjie Pi<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup> 
+    **Jianshu Zhang**<sup>&dagger;</sup>, Renjie Pi<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup> 
 
     [[arXiv](https://arxiv.org/pdf/2406.07502)] [[code](https://github.com/sterzhang/image-textualization)]
 
   - [**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**](https://arxiv.org/pdf/2401.02906) 
 
-    Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup> 
+    **Jianshu Zhang**<sup>&dagger;</sup>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup> 
 
     [[arXiv](https://arxiv.org/pdf/2401.02906)] [[code](https://github.com/pipilurj/MLLM-protector)]
  
   - [**FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation**]()
 
-    KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, **Jianshu Zhang**<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza 
+    **Jianshu Zhang**<sup>&dagger;</sup>, KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza 
 
     [[arXiv]()] [[code]()]
  
