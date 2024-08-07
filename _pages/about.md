@@ -21,7 +21,7 @@ redirect_from:
 
 Greetings!👋
 I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  
-<!-- Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/).  -->
+Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/). 
 
 My research interests mainly focus on **Large Language Models, Mutimodal Large Language Models, and Continual Learning**. 
 Currently, I'm actively seeking Ph.D. positions to further pursue my research goals. Feel free to connect and discuss exciting opportunities or collaborations!
@@ -44,7 +44,7 @@ Currently, I'm actively seeking Ph.D. positions to further pursue my research go
 
 
 # 📝 Publications 
-<sup>&dagger;</sup> : equal contribution, <sup>*</sup> : corresponding author
+<sup>&dagger;</sup> : equal contribution (names listed in no particular order), <sup>*</sup> : corresponding author
 
 - [**CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay**](https://arxiv.org/abs/2402.01348) 
 
