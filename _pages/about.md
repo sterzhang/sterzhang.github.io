@@ -83,11 +83,6 @@ Currently, I'm actively seeking Ph.D. positions to further pursue my research go
 
 
 ## ⌛️ In Submission & Preprint
-  <!-- - [**CAN: Emphasizing the Role of Clients in Federated Class-Continual Learning**]() 
-
-    **Jianshu Zhang**<sup>&dagger;</sup>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup> 
-
-    [[arXiv]()] [[code]()] -->
 
   - [**PVIT: Personalized Visual Instruction Tuning**]() 
 
