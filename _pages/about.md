@@ -35,6 +35,8 @@ Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my rese
 
 
 # 🔥 News
+- *2024.10*: &nbsp; I won the **National Scholarship** (Award Rate: 0.2% national-wide)!
+- *2024.09*: &nbsp; Ranked 1/146 in the annual comprehensive assessment!
 - *2024.09*: &nbsp; ✊One paper has been accepted by NeurIPS 2024 (DB track).
 - *2024.09*: &nbsp; 👏👏Two papers have been accepted by EMNLP 2024 (main).
 - *2024.07*: &nbsp; Attended CogSci 2024 in Rotterdam, Netherlands. The atmosphere is fantastic!
@@ -107,11 +109,13 @@ Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my rese
 
 
 # 🏆 Honors and Awards
+- *2024.10*: &nbsp; National Scholarship (Award Rate: 0.2% national-wide) *Ministry of Education, China*
+- *2024.10*: &nbsp; First Class Scholarship (Award Rate: 5% school-wide) *Wuhan University*
 - *2024.05*: &nbsp; **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
-- *2023.12*: &nbsp; **Advanced Individual in Scientific Innovation** of School of Cyber Science and Engineering
-- *2023.10*: &nbsp; **2022-2023 Merit Student** (*15% school-wide*) of WHU, 
-- *2023.05*: &nbsp; **First Prize** (*4.5% nationwide*), **Huazhong Contest in Mathematical Modeling**
-- *2022.10*: &nbsp; **2021-2022 Merit Student** (*15% school-wide*) of WHU
+- *2023.12*: &nbsp; **Advanced Individual in Scientific Innovation** *Wuhan University*
+- *2023.10*: &nbsp; **2022-2023 Merit Student** *Wuhan University*
+- *2023.05*: &nbsp; **First Prize** (*4.5% nationwide*), Huazhong Contest in Mathematical Modeling
+- *2022.10*: &nbsp; **2021-2022 Merit Student** *Wuhan University*
 
 
 
