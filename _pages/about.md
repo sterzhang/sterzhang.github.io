@@ -20,11 +20,12 @@ redirect_from:
 # 😊 About Me
 
 Greetings!👋
-I'm Jianshu Zhang (张鉴殊), a junior undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  
+I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  
 Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/). 
 
-My research interests mainly focus on **Large Language Models, Mutimodal Large Language Models, and Continual Learning**. 
-Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my research goals. Feel free to connect and discuss exciting opportunities or collaborations!
+My research interests mainly focus on **Reliable (multimodal) LLMs, Data-centric AI, and Lifelong Learning**. Recently, I’ve started exploring reasoning, focusing on key areas such as multimodal reasoning; longer reasoning and inference time scaling laws; and step-by-step reward mechanisms.
+
+Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further pursue my research goals. Feel free to connect and discuss exciting opportunities or collaborations!
 
 
 
@@ -50,6 +51,7 @@ Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my rese
 # 📝 Publications 
 <sup>&dagger;</sup> : equal contribution (names listed in no particular order), <sup>*</sup> : corresponding author
 
+## Data-centric AI
 - [**Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions**](https://arxiv.org/pdf/2406.07502) 
 
   **Jianshu Zhang**<sup>&dagger;</sup>, Renjie Pi<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup> 
@@ -57,6 +59,8 @@ Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my rese
   The Thirty-Eighth Annual Conference on Neural Information Processing Systems [(NeurIPS 2024)](https://nips.cc/Conferences/2024)
 
   [[arXiv](https://arxiv.org/pdf/2406.07502)] [[code](https://github.com/sterzhang/image-textualization)]
+
+## Reliable (multimodal) LLMs
 
 - [**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**](https://arxiv.org/pdf/2401.02906) 
 
@@ -74,14 +78,6 @@ Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my rese
 
   [[arXiv](https://arxiv.org/pdf/2408.12168)] [[code](https://github.com/sterzhang/FIRST)]
 
-- [**CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay**](https://arxiv.org/abs/2402.01348) 
-
-  **Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup>
-
-  2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**] 
-  
-  [[arXiv](https://arxiv.org/abs/2402.01348)][[Code](https://github.com/sterzhang/CORE)]
-
 - [**FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models**](https://ieeexplore.ieee.org/document/10448041)
 
   **Jianshu Zhang**<sup>&dagger;</sup>, Dongyu Yao<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup> , Marcel Carlsson
@@ -91,6 +87,16 @@ Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my rese
   
   [[arXiv](https://arxiv.org/abs/2309.05274)] [[code](https://github.com/sterzhang/FuzzLLM)]
 
+## Lifelong Learning
+- [**CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay**](https://arxiv.org/abs/2402.01348) 
+
+  **Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup>
+
+  2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/) [**Oral**] 
+  
+  [[arXiv](https://arxiv.org/abs/2402.01348)][[Code](https://github.com/sterzhang/CORE)]
+
+
 
 ## ⌛️ In Submission & Preprint
 
@@ -99,7 +105,12 @@ Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my rese
     **Jianshu Zhang**<sup>&dagger;</sup>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup> 
 
     [[arXiv]()] [[code](https://github.com/sterzhang/PVIT)]
+  
+  - [**Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning**]() 
 
+    **Jianshu Zhang**<sup>&dagger;</sup>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup> 
+
+    [[arXiv]()] [[code](https://github.com/sterzhang/PVIT)]
 
 
 
@@ -122,7 +133,6 @@ Currently, I'm actively seeking 25Fall Ph.D. positions to further pursue my rese
 # 📖 Educations
 - *2021.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. 
 - *2018.09 - 2021.07*, Senior Middle School, [Shenzhen Middle School](https://www.shenzhong.net/), China.
-- *2015.09 - 2018.07*, Junior Middle School,  [Shenzhen Futian Experimental Education Group](https://qxwy.szftedu.cn/), China.
 
 
 
