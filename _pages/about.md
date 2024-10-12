@@ -36,7 +36,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 
 # 🔥 News
-- *2024.10*: &nbsp; 🥳 I was selected as  Outstanding National Scholarship Student Representative (the Only One from the entire faculty)!
+- *2024.10*: &nbsp; 🥳 I was selected as  Outstanding National Scholarship Student Representative (the Only One from the department)!
 - *2024.10*: &nbsp; I won the National Scholarship (Award Rate: 0.2% national-wide)!
 - *2024.09*: &nbsp; Ranked 1/146 in the annual comprehensive assessment!
 - *2024.09*: &nbsp; ✊ One paper has been accepted by NeurIPS 2024 (DB track).
@@ -128,7 +128,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 
 # 🏆 Honors and Awards
-- *2024.10*: &nbsp; Outstanding National Scholarship Student Representative (the only one from the entire faculty) 
+- *2024.10*: &nbsp; Outstanding National Scholarship Student Representative (the Only One from the department)
 - *2024.10*: &nbsp; National Scholarship (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2024.10*: &nbsp; First Class Scholarship (Award Rate: 5% school-wide) *Wuhan University*
 - *2024.05*: &nbsp; **First Prize** in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
