@@ -9,6 +9,11 @@ redirect_from:
 ---
 
 <style>
+  dl {
+    margin-top: 1px;
+    margin-bottom: 1px; /* 调整这个值以获得合适的间距 */
+    clear: both;
+  }
 
   img {
     display: block;
@@ -22,10 +27,6 @@ redirect_from:
     clear: both; 
   }
 
-  br {
-    margin-top: 1px; 
-    margin-bottom: 1px;
-  }
 
   dl dd {
   color: #; 
@@ -37,6 +38,7 @@ redirect_from:
   font-weight: bold;
   color: black;
   }
+
 
   .publication-title {
     font-weight: bold;
