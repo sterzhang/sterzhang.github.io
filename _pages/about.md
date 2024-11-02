@@ -10,33 +10,23 @@ redirect_from:
 
 <style>
   dl {
-    margin-bottom: 60px;
+    margin-bottom: 20px;
     clear: both;
   }
 
-  img {
+  dl img {
     display: block;
-    margin: 0px 10px 10px 0px; 
-    max-width: 100%;
-  }
-
-  hr {
-    border: 1px solid #ebebeb;
-    clear: both; 
+    float: left;
+    margin-right: 10px;
+    max-width: 150px; /* Adjust the size to fit better */
   }
 
   dl dd {
-    margin-top: 5px; 
-    margin-bottom: 5px;
+    margin-left: 170px; /* Add left margin to align text next to the image */
   }
 
-  dl dd strong {
+  .publication-title {
     font-weight: bold;
-    color: black;
-  }
-
-  .co-first {
-    color: red;
   }
 </style>
 
@@ -80,67 +70,67 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 ## Data-Centric AI
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/paper/it.png"></dt>
-  <dd><a href="https://arxiv.org/pdf/2406.07502"><strong>Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions</strong></a></dd>
-  <dd>**Jianshu Zhang**<sup>&dagger;</sup>, Renjie Pi<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup></dd>
-  <dd>The Thirty-Eighth Annual Conference on Neural Information Processing Systems [(NeurIPS 2024)](https://nips.cc/Conferences/2024)</dd>
-  <dd>[[arXiv](https://arxiv.org/pdf/2406.07502)] [[code](https://github.com/sterzhang/image-textualization)]</dd>
+  <dt><img src="../images/paper/it.png" alt="Image Textualization"></dt>
+  <dd><a href="https://arxiv.org/pdf/2406.07502" class="publication-title">Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup></dd>
+  <dd>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</dd>
+  <dd><a href="https://arxiv.org/pdf/2406.07502">[arXiv]</a> <a href="https://github.com/sterzhang/image-textualization">[code]</a></dd>
 </dl>
 
 ## Reliable (Multi-modal) LLMs
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/paper/mllm-protector.png"></dt>
-  <dd><a href="https://arxiv.org/pdf/2401.02906"><strong>MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance</strong></a></dd>
-  <dd>**Jianshu Zhang**<sup>&dagger;</sup>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup></dd>
-  <dd>The 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)</dd>
-  <dd>[[arXiv](https://arxiv.org/pdf/2401.02906)] [[code](https://github.com/pipilurj/MLLM-protector)]</dd>
+  <dt><img src="../images/paper/mllm-protector.png" alt="MLLM-Protector"></dt>
+  <dd><a href="https://arxiv.org/pdf/2401.02906" class="publication-title">MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup></dd>
+  <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</dd>
+  <dd><a href="https://arxiv.org/pdf/2401.02906">[arXiv]</a> <a href="https://github.com/pipilurj/MLLM-protector">[code]</a></dd>
 </dl>
 
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/paper/first.png"></dt>
-  <dd><a href="https://arxiv.org/pdf/2408.12168"><strong>FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation</strong></a></dd>
-  <dd>**Jianshu Zhang**<sup>&dagger;</sup>, KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza</dd>
-  <dd>The 2024 Conference on Empirical Methods in Natural Language Processing [(EMNLP 2024)](https://2024.emnlp.org/)</dd>
-  <dd>[[arXiv](https://arxiv.org/pdf/2408.12168)] [[code](https://github.com/sterzhang/FIRST)]</dd>
+  <dt><img src="../images/paper/first.png" alt="FIRST"></dt>
+  <dd><a href="https://arxiv.org/pdf/2408.12168" class="publication-title">FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza</dd>
+  <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</dd>
+  <dd><a href="https://arxiv.org/pdf/2408.12168">[arXiv]</a> <a href="https://github.com/sterzhang/FIRST">[code]</a></dd>
 </dl>
 
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/paper/fuzzllm.png"></dt>
-  <dd><a href="https://ieeexplore.ieee.org/document/10448041"><strong>FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models</strong></a></dd>
-  <dd>**Jianshu Zhang**<sup>&dagger;</sup>, Dongyu Yao<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup>, Marcel Carlsson</dd>
-  <dd>2024 IEEE International Conference on Acoustics, Speech and Signal Processing [(ICASSP 24)](https://cmsworkshops.com/ICASSP2024/papers/accepted_papers.php)</dd>
-  <dd>[[arXiv](https://arxiv.org/abs/2309.05274)] [[code](https://github.com/sterzhang/FuzzLLM)]</dd>
+  <dt><img src="../images/paper/fuzzllm.png" alt="FuzzLLM"></dt>
+  <dd><a href="https://ieeexplore.ieee.org/document/10448041" class="publication-title">FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Dongyu Yao<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup>, Marcel Carlsson</dd>
+  <dd>2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 24)</dd>
+  <dd><a href="https://arxiv.org/abs/2309.05274">[arXiv]</a> <a href="https://github.com/sterzhang/FuzzLLM">[code]</a></dd>
 </dl>
 
 ## Lifelong Learning
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/paper/core.png"></dt>
-  <dd><a href="https://arxiv.org/abs/2402.01348"><strong>CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay</strong></a></dd>
-  <dd>**Jianshu Zhang**<sup>&dagger;</sup>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup></dd>
-  <dd>2024 Cognitive Science Society Annual Conference [(CogSci 2024)](https://cognitivesciencesociety.org/cogsci-2024/)</dd>
-  <dd>[[arXiv](https://arxiv.org/abs/2402.01348)][[Code](https://github.com/sterzhang/CORE)]</dd>
+  <dt><img src="../images/paper/core.png" alt="CORE"></dt>
+  <dd><a href="https://arxiv.org/abs/2402.01348" class="publication-title">CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup></dd>
+  <dd>2024 Cognitive Science Society Annual Conference (Cogsci 2024)</dd>
+  <dd><a href="https://arxiv.org/abs/2402.01348">[arXiv]</a> <a href="https://github.com/sterzhang/CORE">[code]</a></dd>
 </dl>
 
 ## ⌛️ In Submission & Preprint
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/paper/pvit.png"></dt>
-  <dd><a href="https://arxiv.org/pdf/2410.07113"><strong>Personalized Visual Instruction Tuning</strong></a></dd>
-  <dd>**Jianshu Zhang**<sup>&dagger;</sup>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
-  <dd>[[arXiv](https://arxiv.org/pdf/2410.07113)] [[code](https://github.com/sterzhang/PVIT)]</dd>
+  <dt><img src="../images/paper/pvit.png" alt="Personalized Visual Instruction Tuning"></dt>
+  <dd><a href="https://arxiv.org/pdf/2410.07113" class="publication-title">Personalized Visual Instruction Tuning</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
+  <dd><a href="https://arxiv.org/pdf/2410.07113">[arXiv]</a> <a href="https://github.com/sterzhang/PVIT">[code]</a></dd>
 </dl>
 
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/paper/can.png"></dt>
-  <dd><a href=""><strong>Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning</strong></a></dd>
-  <dd>**Jianshu Zhang**<sup>&dagger;</sup>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup></dd>
-  <dd>[[arXiv]()][[code]()]</dd>
+  <dt><img src="../images/paper/can.png" alt="Client As Navigator"></dt>
+  <dd><a href="" class="publication-title">Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup></dd>
+  <dd><a href="#">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
 
 <dl>
-  <dt><img align="left" width="400" hspace="10" wspace="20" src="../images/paper/bridge-coder.png"></dt>
-  <dd><a href="https://arxiv.org/pdf/2410.18957"><strong>Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</strong></a></dd>
-  <dd>**Jianshu Zhang**<sup>&dagger;</sup>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
-  <dd>[[arXiv]()] [[code]()]</dd>
+  <dt><img src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
+  <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
+  <dd><a href="https://arxiv.org/pdf/2410.18957">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
 
 <!-- ## Data-Centric AI
