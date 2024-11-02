@@ -140,7 +140,6 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 24)</dd>
   <dd><a href="https://arxiv.org/abs/2309.05274">[arXiv]</a> <a href="https://github.com/sterzhang/FuzzLLM">[code]</a></dd>
 </dl>
-<hr >
 
 <br/>
 
@@ -154,6 +153,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>2024 Cognitive Science Society Annual Conference (Cogsci 2024)</dd>
   <dd><a href="https://arxiv.org/abs/2402.01348">[arXiv]</a> <a href="https://github.com/sterzhang/CORE">[code]</a></dd>
 </dl>
+<hr >
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
   <dd><a href="" class="publication-title">Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning</a></dd>
