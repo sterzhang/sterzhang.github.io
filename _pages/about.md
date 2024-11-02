@@ -29,8 +29,8 @@ redirect_from:
 
   dl dd {
   color: #; 
-  margin-top: 5px; 
-  margin-bottom: 5px;
+  margin-top: 1px; 
+  margin-bottom: 1px;
 }
 
   dl dd strong {
@@ -92,26 +92,24 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 <br/>
 
 ## Data-Centric AI
-
+<dl>
   <dt><img align="left" width="400" src="../images/paper/it.png" alt="Image Textualization"></dt>
   <dd><a href="https://arxiv.org/pdf/2406.07502" class="publication-title">Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions</a></dd>
   <dd><strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup></dd>
   <dd>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</dd>
   <dd><a href="https://arxiv.org/pdf/2406.07502">[arXiv]</a> <a href="https://github.com/sterzhang/image-textualization">[code]</a></dd>
 </dl>
-<hr >
 <dl>
   <dt><img align="left" width="400" src="../images/paper/pvit.png" alt="Personalized Visual Instruction Tuning"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.07113" class="publication-title">Personalized Visual Instruction Tuning</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
   <dd>Under Review</dd>
   <dd><a href="https://arxiv.org/pdf/2410.07113">[arXiv]</a> <a href="https://github.com/sterzhang/PVIT">[code]</a></dd>
 </dl>
-<hr >
 <dl>
   <dt><img align="left" width="400" src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
   <dd>Under Review</dd>
   <dd><a href="https://arxiv.org/pdf/2410.18957">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
@@ -122,10 +120,10 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 <br/>
 
 ## Reliable (Multi-modal) LLMs
-
+<dl>
   <dt><img align="left" width="400" src="../images/paper/mllm-protector.png" alt="MLLM-Protector"></dt>
   <dd><a href="https://arxiv.org/pdf/2401.02906" class="publication-title">MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup></dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup></dd>
   <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</dd>
   <dd><a href="https://arxiv.org/pdf/2401.02906">[arXiv]</a> <a href="https://github.com/pipilurj/MLLM-protector">[code]</a></dd>
 </dl>
@@ -133,7 +131,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 <dl>
   <dt><img align="left" width="400" src="../images/paper/first.png" alt="FIRST"></dt>
   <dd><a href="https://arxiv.org/pdf/2408.12168" class="publication-title">FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza</dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza</dd>
   <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</dd>
   <dd><a href="https://arxiv.org/pdf/2408.12168">[arXiv]</a> <a href="https://github.com/sterzhang/FIRST">[code]</a></dd>
 </dl>
@@ -141,7 +139,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 <dl>
   <dt><img align="left" width="400" src="../images/paper/fuzzllm.png" alt="FuzzLLM"></dt>
   <dd><a href="https://ieeexplore.ieee.org/document/10448041" class="publication-title">FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, Dongyu Yao<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup>, Marcel Carlsson</dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, Dongyu Yao<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup>, Marcel Carlsson</dd>
   <dd>2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 24)</dd>
   <dd><a href="https://arxiv.org/abs/2309.05274">[arXiv]</a> <a href="https://github.com/sterzhang/FuzzLLM">[code]</a></dd>
 </dl>
@@ -152,17 +150,17 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 <br/>
 
 ## Lifelong Learning
-
+<dl>
   <dt><img align="left" width="400" src="../images/paper/core.png" alt="CORE"></dt>
   <dd><a href="https://arxiv.org/abs/2402.01348" class="publication-title">CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup></dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, Yankai Fu<sup>&dagger;</sup>, Ziheng Peng<sup>&dagger;</sup>, Dongyu Yao, Kun He<sup>*</sup></dd>
   <dd>2024 Cognitive Science Society Annual Conference (Cogsci 2024)</dd>
   <dd><a href="https://arxiv.org/abs/2402.01348">[arXiv]</a> <a href="https://github.com/sterzhang/CORE">[code]</a></dd>
 </dl>
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
   <dd><a href="" class="publication-title">Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup></dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup></dd>
   <dd>Under Review</dd>
   <dd><a href="#">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
