@@ -23,29 +23,23 @@ Greetings!👋
 I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  
 Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/). 
 
-My research interests mainly focus on **Reliable (multimodal) LLMs, Data-centric AI, and Lifelong Learning**. Recently, I’ve started exploring **Reasoning**, focusing on key areas such as multimodal reasoning; longer reasoning and inference time scaling laws; and step-by-step reward mechanisms.
+My research interests mainly focus on **Reliable (multimodal) LLMs, Data-centric AI, and Lifelong Learning**. 
+Recently, I’ve started exploring **Reasoning**, focusing on key areas such as multimodal reasoning; longer reasoning and inference time scaling laws; and step-by-step reward mechanisms.
 
 Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further pursue my research goals. Feel free to connect and discuss exciting opportunities or collaborations!
 
 
 
 
-<!-- # 🔬 Research Interest -->
-
-
-
-
 # 🔥 News
-- *2024.10*: &nbsp; 🥳 I was selected as  Outstanding National Scholarship Student Representative (the Only One from the department)!
-- *2024.10*: &nbsp; I won the National Scholarship (Award Rate: 0.2% national-wide)!
-- *2024.09*: &nbsp; Ranked 1/146 in the annual comprehensive assessment!
-- *2024.09*: &nbsp; ✊ One paper has been accepted by NeurIPS 2024 (DB track).
-- *2024.09*: &nbsp; 👏 Two papers have been accepted by EMNLP 2024 (main).
+- *2024.10*: &nbsp; I was selected as  Outstanding National Scholarship Student Representative!  
+- *2024.10*: &nbsp; I won the **National Scholarship** 🥰  (Award Rate: 0.2% national-wide)!
+- *2024.09*: &nbsp; One paper has been accepted by NeurIPS 2024 (D&B track). ✊ 
+- *2024.09*: &nbsp; Two papers have been accepted by EMNLP 2024 (Main). 👏 
 - *2024.07*: &nbsp; Attended CogSci 2024 in Rotterdam, Netherlands. The atmosphere is fantastic!
-- *2024.05*: &nbsp; Won First Prize in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide).
-- *2024.03*: &nbsp; One paper has been accepted by CogSci 2024 <strong><span style="color:red;">[Oral]</span></strong>.
+- *2024.03*: &nbsp; One paper has been accepted by Cogsci 2024 <strong><span style="color:red;">[Oral]</span></strong>.
 - *2024.01*: 👽 Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
-- *2023.12*: &nbsp; One paper has been accepted by ICASSP 2024.
+
 
 
 
@@ -101,30 +95,28 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 ## ⌛️ In Submission & Preprint
 
-  - [**PVIT: Personalized Visual Instruction Tuning**](https://arxiv.org/pdf/2410.07113) 
+  - [**Personalized Visual Instruction Tuning**](https://arxiv.org/pdf/2410.07113) 
 
     **Jianshu Zhang**<sup>&dagger;</sup>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup> 
 
-    [[arXiv](https://arxiv.org/pdf/2410.07113)] [[code](https://github.com/sterzhang/PVIT)] <strong><span style="color:red;">#3 Paper of the day</span></strong> [Huggingface Daily Paper](https://huggingface.co/papers/2410.07113)
+    [[arXiv](https://arxiv.org/pdf/2410.07113)] [[code](https://github.com/sterzhang/PVIT)] 
 
   
   - [**Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning**]() 
 
     **Jianshu Zhang**<sup>&dagger;</sup>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup> 
 
-    [[arXiv]()] [[code](https://github.com/sterzhang/PVIT)]
+    [[arXiv]()] [[code]()]
   
-  - [**Code-Bridge:  Leveraging LLMs' Intrinsic Abilities to Improve Performance in Low-Resource Programming Languages**]() 
+  - [**Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code**](https://arxiv.org/pdf/2410.18957) 
 
-    **Jianshu Zhang**<sup>&dagger;</sup>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang 
+    **Jianshu Zhang**<sup>&dagger;</sup>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang*
 
     [[arXiv]()] [[code]()]
 
 
 
  
-  
-  
 
 
 # 🏆 Honors and Awards
@@ -146,9 +138,10 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 
 # 💻 Internships
-- *2024.02 - now,* Research Assistant in [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), supervised by Prof. [Tong Zhang (张潼)](https://tongzhang-ml.org/)
-- *2023.09 - now,* Research Assistant at [Data Security Lab, Wuhan University](https://datasec.whu.edu.cn/), supervised by Prof. [Kun He (何琨)](https://cse.whu.edu.cn/info/1262/3298.htm)
-- *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), Supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
+- *2024.10 - now,* Research Intern in [MIT](https://www.mit.edu/), under the supervision of Prof. [Paul Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://yrf1.github.io/).
+- *2024.02 - now,* Research Assistant in [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), supervised by Prof. [Tong Zhang](https://tongzhang-ml.org/)
+- *2023.09 - 2024.5,* Research Assistant at [Data Security Lab, Wuhan University](https://datasec.whu.edu.cn/), supervised by Prof. [Kun He](https://cse.whu.edu.cn/info/1262/3298.htm)
+- *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 - *2023.06 - 2023.09*, [Tencent](https://www.tencent.com/zh-cn/index.html), IEG (Interactive Entertainment Group), Shenzhen, China.
 
 
