@@ -96,6 +96,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</dd>
   <dd><a href="https://arxiv.org/pdf/2406.07502">[arXiv]</a> <a href="https://github.com/sterzhang/image-textualization">[code]</a></dd>
 </dl>
+<hr >
 <dl>
   <dt><img align="left" width="400" src="../images/paper/pvit.png" alt="Personalized Visual Instruction Tuning"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.07113" class="publication-title">Personalized Visual Instruction Tuning</a></dd>
@@ -103,6 +104,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>Under Review</dd>
   <dd><a href="https://arxiv.org/pdf/2410.07113">[arXiv]</a> <a href="https://github.com/sterzhang/PVIT">[code]</a></dd>
 </dl>
+<hr >
 <dl>
   <dt><img align="left" width="400" src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
@@ -164,12 +166,10 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 <br/>
 
-
-
-
 <br/>
 
 # 🏆 Honors and Awards
+
 - *2024.10*: &nbsp; Outstanding National Scholarship Student Representative (the Only One from the department)
 - *2024.10*: &nbsp; National Scholarship (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2024.10*: &nbsp; First Class Scholarship (Award Rate: 5% school-wide) *Wuhan University*
