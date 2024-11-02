@@ -168,12 +168,13 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 # 🏆 Honors and Awards
 
 - *2024.10*: &nbsp; Outstanding National Scholarship Student Representative (the Only One from the department)
-- *2024.10*: &nbsp; National Scholarship (Award Rate: 0.2% national-wide) *Ministry of Education, China*
-- *2024.10*: &nbsp; First Class Scholarship (Award Rate: 5% school-wide) *Wuhan University*
-- *2024.05*: &nbsp; First Prize in the 17th China Undergraduate Computer Design Competition of Middle South Division (Award Rate: 3% division-wide)
+- *2024.10*: &nbsp; National Scholarship (0.2% national-wide) *Ministry of Education, China*
+- *2024.09*: &nbsp; 2023-2024 Merit Student *Wuhan University*
+- *2024.09*: &nbsp; First Class Scholarship (5% school-wide) *Wuhan University*
+- *2024.05*: &nbsp; First Prize in the 17th China Undergraduate Computer Design Competition of Middle South Division (3% division-wide)
 - *2023.12*: &nbsp; Advanced Individual in Scientific Innovation *Wuhan University*
 - *2023.10*: &nbsp; 2022-2023 Merit Student *Wuhan University*
-- *2023.05*: &nbsp; First Prize (*4.5% nationwide*), Huazhong Contest in Mathematical Modeling
+- *2023.05*: &nbsp; First Prize (4.5% nationwide), Huazhong Contest in Mathematical Modeling
 - *2022.10*: &nbsp; 2021-2022 Merit Student *Wuhan University*
 
 
