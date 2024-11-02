@@ -84,9 +84,6 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 # 📝 Publications 
 <sup>&dagger;</sup> : equal contribution (names listed in no particular order), <sup>*</sup> : corresponding author
-<hr >
-
-<br/>
 
 ## Data-Centric AI
 <dl>
@@ -112,9 +109,6 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>Under Review</dd>
   <dd><a href="https://arxiv.org/pdf/2410.18957">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
-
-<br/>
-
 
 <br/>
 
@@ -145,8 +139,6 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 <br/>
 
-<br/>
-
 ## Lifelong Learning
 <dl>
   <dt><img align="left" width="400" src="../images/paper/core.png" alt="CORE"></dt>
@@ -165,7 +157,6 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 </dl>
 
 <br/>
-
 <br/>
 
 # 🏆 Honors and Awards
@@ -194,6 +185,5 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 - *2023.06 - 2023.09*, [Tencent](https://www.tencent.com/zh-cn/index.html), IEG (Interactive Entertainment Group), Shenzhen, China.
 
-<br/>
 
 
