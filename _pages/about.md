@@ -43,6 +43,10 @@ redirect_from:
     color: red;
   }
 
+  .publication-title {
+    font-weight: bold;
+  }
+
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -84,10 +88,10 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 # 📝 Publications 
 <sup>&dagger;</sup> : equal contribution (names listed in no particular order), <sup>*</sup> : corresponding author
 <hr >
-<dl>
-  <dd style="font-size: 20px; font-weight: bold;">
-  · Data-Centric AI
-  </dd>
+
+<br/>
+
+## Data-Centric AI
 
   <dt><img align="left" width="400" src="../images/paper/it.png" alt="Image Textualization"></dt>
   <dd><a href="https://arxiv.org/pdf/2406.07502" class="publication-title">Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions</a></dd>
@@ -95,12 +99,29 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</dd>
   <dd><a href="https://arxiv.org/pdf/2406.07502">[arXiv]</a> <a href="https://github.com/sterzhang/image-textualization">[code]</a></dd>
 </dl>
-
 <hr >
 <dl>
-  <dd style="font-size: 20px; font-weight: bold;">
-  · Reliable (Multi-modal) LLMs
-  </dd>
+  <dt><img align="left" width="400" src="../images/paper/pvit.png" alt="Personalized Visual Instruction Tuning"></dt>
+  <dd><a href="https://arxiv.org/pdf/2410.07113" class="publication-title">Personalized Visual Instruction Tuning</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
+  <dd>Under Review</dd>
+  <dd><a href="https://arxiv.org/pdf/2410.07113">[arXiv]</a> <a href="https://github.com/sterzhang/PVIT">[code]</a></dd>
+</dl>
+<hr >
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
+  <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
+  <strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
+  <dd>Under Review</dd>
+  <dd><a href="https://arxiv.org/pdf/2410.18957">[arXiv]</a> <a href="#">[code]</a></dd>
+</dl>
+
+<br/>
+
+
+<br/>
+
+## Reliable (Multi-modal) LLMs
 
   <dt><img align="left" width="400" src="../images/paper/mllm-protector.png" alt="MLLM-Protector"></dt>
   <dd><a href="https://arxiv.org/pdf/2401.02906" class="publication-title">MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance</a></dd>
@@ -108,7 +129,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</dd>
   <dd><a href="https://arxiv.org/pdf/2401.02906">[arXiv]</a> <a href="https://github.com/pipilurj/MLLM-protector">[code]</a></dd>
 </dl>
-
+<hr >
 <dl>
   <dt><img align="left" width="400" src="../images/paper/first.png" alt="FIRST"></dt>
   <dd><a href="https://arxiv.org/pdf/2408.12168" class="publication-title">FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation</a></dd>
@@ -116,7 +137,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</dd>
   <dd><a href="https://arxiv.org/pdf/2408.12168">[arXiv]</a> <a href="https://github.com/sterzhang/FIRST">[code]</a></dd>
 </dl>
-
+<hr >
 <dl>
   <dt><img align="left" width="400" src="../images/paper/fuzzllm.png" alt="FuzzLLM"></dt>
   <dd><a href="https://ieeexplore.ieee.org/document/10448041" class="publication-title">FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models</a></dd>
@@ -126,10 +147,11 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 </dl>
 <hr >
 
-<dl>
-<dd style="font-size: 20px; font-weight: bold;">
-  · Lifelong Learning
-  </dd>
+<br/>
+
+<br/>
+
+## Lifelong Learning
 
   <dt><img align="left" width="400" src="../images/paper/core.png" alt="CORE"></dt>
   <dd><a href="https://arxiv.org/abs/2402.01348" class="publication-title">CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay</a></dd>
@@ -137,34 +159,17 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>2024 Cognitive Science Society Annual Conference (Cogsci 2024)</dd>
   <dd><a href="https://arxiv.org/abs/2402.01348">[arXiv]</a> <a href="https://github.com/sterzhang/CORE">[code]</a></dd>
 </dl>
-<br/>
-
-<br/>
-
-## ⌛️ In Submission & Preprint
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/pvit.png" alt="Personalized Visual Instruction Tuning"></dt>
-  <dd><a href="https://arxiv.org/pdf/2410.07113" class="publication-title">Personalized Visual Instruction Tuning</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
-  <dd><a href="https://arxiv.org/pdf/2410.07113">[arXiv]</a> <a href="https://github.com/sterzhang/PVIT">[code]</a></dd>
-</dl>
-
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
   <dd><a href="" class="publication-title">Client As Navigator: Emphasizing the Role of Clients in Federated Continual Learning</a></dd>
   <strong>Jianshu Zhang&dagger; </strong>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup></dd>
+  <dd>Under Review</dd>
   <dd><a href="#">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
-  <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
-  <strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
-  <dd><a href="https://arxiv.org/pdf/2410.18957">[arXiv]</a> <a href="#">[code]</a></dd>
-</dl>
-
 <br/>
+
+
+
 
 <br/>
 
