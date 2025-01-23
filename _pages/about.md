@@ -60,11 +60,9 @@ Greetings!👋
 I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  
 Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/). 
 
-My research interests mainly focus on **Reliable (multimodal) LLMs, Data-centric AI, and Lifelong Learning**. 
-Recently, I’ve started exploring **Reasoning**, focusing on key areas such as multimodal reasoning; longer reasoning and inference time scaling laws; and step-by-step reward mechanisms.
+My research interests focus on how to achieve better intereaction between Human and AI: (i) Reliable (multimodal) LLMs; (ii) Multi-modal LLMs; and (iii) Adaptive AI. 
 
-Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further pursue my research goals. Feel free to connect and discuss exciting opportunities or collaborations!
-
+Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further pursue my research goals. Feel free to connect and discuss exciting opportunities or collaborations! ([wechat](https://sterzhang.github.io/images/wechat.jpg))
 
 
 
@@ -84,7 +82,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 # 📝 Publications 
 <sup>&dagger;</sup> : equal contribution (names listed in no particular order), <sup>*</sup> : corresponding author
 
-## Data-Centric AI
+## Multi-modal LLMs
 <dl>
   <dt><img align="left" width="400" src="../images/paper/it.png" alt="Image Textualization"></dt>
   <dd><a href="https://arxiv.org/pdf/2406.07502" class="publication-title">Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions</a></dd>
@@ -100,14 +98,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>The Thirteenth International Conference on Learning Representations (<strong>ICLR 2025</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2410.07113">[arXiv]</a> <a href="https://github.com/sterzhang/PVIT">[code]</a></dd>
 </dl>
-<hr>
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
-  <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
-  <dd><strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
-  <dd>Under Review</dd>
-  <dd><a href="https://arxiv.org/pdf/2410.18957">[arXiv]</a> <a href="#">[code]</a></dd>
-</dl>
+
 
 <br/>
 
@@ -140,7 +131,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 <br/>
 
-## Lifelong Learning
+## Adaptive AI
 <dl>
   <dt><img align="left" width="400" src="../images/paper/core.png" alt="CORE"></dt>
   <dd><a href="https://arxiv.org/abs/2402.01348" class="publication-title">CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay</a></dd>
@@ -158,7 +149,14 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>Under Review</dd>
   <dd><a href="#">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
-
+<hr>
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
+  <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
+  <dd>Under Review</dd>
+  <dd><a href="https://arxiv.org/pdf/2410.18957">[arXiv]</a> <a href="#">[code]</a></dd>
+</dl>
 <br/>
 
 <br/>
