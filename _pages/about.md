@@ -69,14 +69,14 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 
 # 🔥 News
-- *2024.10*: &nbsp; I was selected as  Outstanding National Scholarship Student Representative!  
-- *2024.10*: &nbsp; I won the **National Scholarship** 🥰  (Award Rate: 0.2% national-wide)!
-- *2024.09*: &nbsp; One paper has been accepted by NeurIPS 2024 (D&B track). ✊ 
-- *2024.09*: &nbsp; Two papers have been accepted by EMNLP 2024 (Main). 👏 
-- *2024.07*: &nbsp; Attended CogSci 2024 in Rotterdam, Netherlands. The atmosphere is fantastic!
-- *2024.03*: &nbsp; One paper has been accepted by Cogsci 2024 <strong><span style="color:red;">[Oral]</span></strong>.
-- *2024.01*: &nbsp; Our work of [FuzzLLM](https://arxiv.org/abs/2309.05274) is invited to present at one of the top hacker conventions -- [*ShmooCon 2024*](https://www.shmoocon.org/speakers/#fuzzllm)!
-
+- *2025.01*: &nbsp; 1 paper (PVIT) has been accepted by **ICLR 2025**. ✊
+- *2024.11*: &nbsp; Dataset of [PVIT-3M](https://huggingface.co/datasets/Sterzhang/PVIT-3M) made it to the **Top 3 Dataset downloads** [November 2024] at HuggingFace🤗! [Post from X](https://x.com/mvaloatto/status/1865102836092277077)
+- *2024.10*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.2% national-wide), also selected as Outstanding National Scholarship Student Representative!
+- *2024.09*: &nbsp; 1 paper (Image Textualization) has been accepted by **NeurIPS 2024** (D&B track). 
+- *2024.09*: &nbsp; 2 papers (MLLM-Protector, FIRST) have been accepted by **EMNLP 2024** (Main). 
+- *2024.03*: &nbsp; One paper (CORE) has been accepted by **Cogsci 2024** <strong><span style="color:red;">[Oral]</span></strong>.
+- *2024.01*: &nbsp; [FuzzLLM](https://arxiv.org/abs/2309.05274) has been invited to present at one of the top hacker conventions -- ShmooCon 2024!
+- *2023.12*: &nbsp; 1 paper (FuzzLLM) has been accepted by **ICASSP 2024**.
 
 
 <br/>
@@ -97,7 +97,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dt><img align="left" width="400" src="../images/paper/pvit.png" alt="Personalized Visual Instruction Tuning"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.07113" class="publication-title">Personalized Visual Instruction Tuning</a></dd>
   <dd><strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
-  <dd>Under Review</dd>
+  <dd>The Thirteenth International Conference on Learning Representations (<strong>ICLR 2025</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2410.07113">[arXiv]</a> <a href="https://github.com/sterzhang/PVIT">[code]</a></dd>
 </dl>
 <hr>
