@@ -100,9 +100,6 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 </dl>
 
 
-<br/>
-
-<br/>
 
 ## Reliable (Multi-modal) LLMs
 <dl>
