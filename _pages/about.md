@@ -60,7 +60,7 @@ Greetings!👋
 I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  
 Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/). 
 
-My research interests focus on how to achieve better intereaction between Human and AI: (i) Reliable (multimodal) LLMs; (ii) Multi-modal LLMs; and (iii) Adaptive AI. 
+My long-term goal is to enhance the interaction between humans and AI by focusing on three key attributes: (i) reliability, (ii) multimodality, and (iii) adaptability. Specifically, my primary focus will be on bridging the gap between a model’s linguistic capabilities and its proficiency in other domains (e.g., vision and action).
 
 Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further pursue my research goals. Feel free to connect and discuss exciting opportunities or collaborations! ([wechat](https://sterzhang.github.io/images/wechat.jpg))
 
@@ -160,15 +160,10 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 # 🏆 Honors and Awards
 
-- *2024.10*: &nbsp; Outstanding National Scholarship Student Representative (the Only One from the department)
-- *2024.10*: &nbsp; National Scholarship (0.2% national-wide) *Ministry of Education, China*
-- *2024.09*: &nbsp; 2023-2024 Merit Student *Wuhan University*
-- *2024.09*: &nbsp; First Class Scholarship (5% school-wide) *Wuhan University*
-- *2024.05*: &nbsp; First Prize in the 17th China Undergraduate Computer Design Competition of Middle South Division (3% division-wide)
-- *2023.12*: &nbsp; Advanced Individual in Scientific Innovation *Wuhan University*
-- *2023.10*: &nbsp; 2022-2023 Merit Student *Wuhan University*
-- *2023.05*: &nbsp; First Prize (4.5% nationwide), Huazhong Contest in Mathematical Modeling
-- *2022.10*: &nbsp; 2021-2022 Merit Student *Wuhan University*
+- **National Scholarship** 
+- Merit Student (WHU)
+- First Class Scholarship (WHU)
+
 
 
 
