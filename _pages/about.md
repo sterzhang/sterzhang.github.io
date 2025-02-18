@@ -82,6 +82,16 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 # 📝 Publications 
 <sup>&dagger;</sup> : equal contribution (names listed in no particular order), <sup>*</sup> : corresponding author
 
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/vlm2-bench.pdf" alt="VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues"></dt>
+  <dd><a href="https://arxiv.org/pdf/2502.12084" class="publication-title">VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues</a></dd>
+  <dd><strong>Jianshu Zhang&dagger; </strong>, Dongyu Yao<sup>&dagger;</sup>, Renjie Pi, Paul Pu Liang, Yi R. (May) Fung<sup>*</sup></dd>
+  <dd>Under Review</dd>
+  <dd><a href="https://arxiv.org/pdf/2502.12084">[arXiv]</a> <a href="https://vlm2-bench.github.io/">[project page]</a></dd>
+</dl>
+
+<br/>
 <dl>
   <dt><img align="left" width="400" src="../images/paper/it.png" alt="Image Textualization"></dt>
   <dd><a href="https://arxiv.org/pdf/2406.07502" class="publication-title">Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions</a></dd>
@@ -89,7 +99,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS 2024</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2406.07502">[arXiv]</a> <a href="https://github.com/sterzhang/image-textualization">[code]</a></dd>
 </dl>
-<hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/pvit.png" alt="Personalized Visual Instruction Tuning"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.07113" class="publication-title">Personalized Visual Instruction Tuning</a></dd>
@@ -108,7 +118,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2024</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2401.02906">[arXiv]</a> <a href="https://github.com/pipilurj/MLLM-protector">[code]</a></dd>
 </dl>
-<hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/first.png" alt="FIRST"></dt>
   <dd><a href="https://arxiv.org/pdf/2408.12168" class="publication-title">FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation</a></dd>
@@ -116,7 +126,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2024</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2408.12168">[arXiv]</a> <a href="https://github.com/sterzhang/FIRST">[code]</a></dd>
 </dl>
-<hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/fuzzllm.png" alt="FuzzLLM"></dt>
   <dd><a href="https://ieeexplore.ieee.org/document/10448041" class="publication-title">FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models</a></dd>
@@ -135,7 +145,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd><a href="https://arxiv.org/abs/2402.01348">[arXiv]</a> <a href="https://github.com/sterzhang/CORE">[code]</a></dd>
 </dl>
 
-<hr>
+
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
@@ -144,7 +154,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
   <dd>Under Review</dd>
   <dd><a href="#">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
-<hr>
+
 <dl>
   <dt><img align="left" width="400" src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
