@@ -84,7 +84,7 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/vlm2-bench.pdf" alt="VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues"></dt>
+  <dt><img align="left" width="400" src="../images/paper/vlm2-bench.png" alt="VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues"></dt>
   <dd><a href="https://arxiv.org/pdf/2502.12084" class="publication-title">VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues</a></dd>
   <dd><strong>Jianshu Zhang&dagger; </strong>, Dongyu Yao<sup>&dagger;</sup>, Renjie Pi, Paul Pu Liang, Yi R. (May) Fung<sup>*</sup></dd>
   <dd>Under Review</dd>
