@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jianshu Zhang"
   avatar           : "images/ster.jpg"
-  bio              : "Senior @ WHU 🖐️ | Incoming CS PhD @ NorthwesternU 💜"
-  location         : "Wuhan, China"
+  bio              : "Senior @ WHU 🖐️ | Incoming CS PhD @ NU 💜"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en"
