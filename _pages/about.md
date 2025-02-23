@@ -57,8 +57,7 @@ redirect_from:
 # 😊 About Me
 
 Greetings!👋
-I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate student at the [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/).  
-Prior to WHU, I spent three years studying at [Shenzhen Middle School (深圳中学)](https://www.shenzhong.net/). 
+I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate at the [Wuhan University](https://www.whu.edu.cn/) and an incoming CS PhD at the [Northwestern University](https://www.northwestern.edu/).
 
 My long-term goal is to enhance the interaction between humans and AI by focusing on three key attributes: (i) reliability, (ii) multimodality, and (iii) adaptability. Specifically, my primary focus will be on bridging the gap between a model’s linguistic capabilities and its proficiency in other domains (e.g., vision and action).
 
@@ -178,14 +177,14 @@ Currently, I'm actively seeking 🤗 25Fall Ph.D. positions 🤗 to further purs
 
 
 # 📖 Educations
-- *2021.09 - now*, Undergraduate, [School of Cyber Science and Engineering](http://cse.whu.edu.cn/index.htm), [Wuhan University](https://www.whu.edu.cn/), China. 
+- *2021.09 - now*, Undergraduate, [Wuhan University](https://www.whu.edu.cn/), China. 
 - *2018.09 - 2021.07*, Senior Middle School, [Shenzhen Middle School](https://www.shenzhong.net/), China.
 
 
 
 # 💻 Internships
-- *2024.10 - now,* Research Intern in [MIT](https://www.mit.edu/), under the supervision of Prof. [Paul Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://yrf1.github.io/).
-- *2024.02 - now,* Research Assistant in [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), supervised by Prof. [Tong Zhang](https://tongzhang-ml.org/).
+- *2024.10 - 2025.03,* Research Intern in [MIT](https://www.mit.edu/), under the supervision of Prof. [Paul Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://yrf1.github.io/).
+- *2024.02 - 2024.12,* Research Assistant in [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), supervised by Prof. [Tong Zhang](https://tongzhang-ml.org/).
 - *2023.09 - 2024.5,* Research Assistant at [Data Security Lab, Wuhan University](https://datasec.whu.edu.cn/), supervised by Prof. [Kun He](https://cse.whu.edu.cn/info/1262/3298.htm).
 - *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
 - *2023.06 - 2023.09*, [Tencent](https://www.tencent.com/zh-cn/index.html), IEG (Interactive Entertainment Group), Shenzhen, China.

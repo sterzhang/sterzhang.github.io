@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianshu Zhang"
-description              : "Undergraduate student at WHU"
+description              : "sterzhang [at] u.northwestern.edu"
 repository               : "sterzhang/sterzhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jianshu Zhang"
   avatar           : "images/ster.jpg"
-  bio              : "Wuhan University"
+  bio              : "Senior @ WHU 🖐️ | Incoming CS PhD @ NorthwesternU 💜"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "jianshu.zhang@whu.edu.cn "
+  googlescholar    : "https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en"
+  email            : "jianshu.zhang777@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "sterzhang"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "SterZhang"
   vine             :
   weibo            :
   xing             :
