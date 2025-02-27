@@ -57,7 +57,7 @@ redirect_from:
 # 🧑‍💻 About Me
 
 Greetings!👋
-I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate at the [Wuhan University](https://www.whu.edu.cn/) and an incoming CS PhD at the [Northwestern University](https://www.northwestern.edu/), co-supervised by Professor [Liu Han](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) and Professor [Manling Li](https://limanling.github.io/). 
+I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate at the [Wuhan University](https://www.whu.edu.cn/) and an incoming CS PhD at the [Northwestern University](https://www.northwestern.edu/), co-supervised by Professor [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) and Professor [Manling Li](https://limanling.github.io/). 
 
 My long-term goal is to enhance the interaction between humans and AI by focusing on three key attributes: (i) reliability, (ii) multimodality, and (iii) adaptability. Specifically, my primary focus will be on bridging the gap between a model’s linguistic capabilities and its proficiency in other domains (especially in vision/action).
 Feel free to connect and discuss exciting opportunities or collaborations! ([wechat](https://sterzhang.github.io/images/wechat.jpg))
