@@ -54,10 +54,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😊 About Me
+# 🧑‍💻 About Me
 
 Greetings!👋
-I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate at the [Wuhan University](https://www.whu.edu.cn/) and an incoming CS PhD at the [Northwestern University](https://www.northwestern.edu/). My long-term goal is to enhance the interaction between humans and AI by focusing on three key attributes: (i) reliability, (ii) multimodality, and (iii) adaptability. Specifically, my primary focus will be on bridging the gap between a model’s linguistic capabilities and its proficiency in other domains (especially in vision/action).
+I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate at the [Wuhan University](https://www.whu.edu.cn/) and an incoming CS PhD at the [Northwestern University](https://www.northwestern.edu/), co-supervised by Professor [Liu Han](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) and Professor [Manling Li](https://limanling.github.io/). 
+
+My long-term goal is to enhance the interaction between humans and AI by focusing on three key attributes: (i) reliability, (ii) multimodality, and (iii) adaptability. Specifically, my primary focus will be on bridging the gap between a model’s linguistic capabilities and its proficiency in other domains (especially in vision/action).
 Feel free to connect and discuss exciting opportunities or collaborations! ([wechat](https://sterzhang.github.io/images/wechat.jpg))
 
 
@@ -91,7 +93,7 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 <dl>
   <dt><img align="left" width="400" src="../images/paper/it.png" alt="Image Textualization"></dt>
   <dd><a href="https://arxiv.org/pdf/2406.07502" class="publication-title">Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions</a></dd>
-  <dd><strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup></dd>
+  <dd>Renjie Pi<sup>&dagger;</sup>, <strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang<sup>*</sup></dd>
   <dd>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS 2024</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2406.07502">[arXiv]</a> <a href="https://github.com/sterzhang/image-textualization">[code]</a></dd>
 </dl>
@@ -99,7 +101,7 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 <dl>
   <dt><img align="left" width="400" src="../images/paper/pvit.png" alt="Personalized Visual Instruction Tuning"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.07113" class="publication-title">Personalized Visual Instruction Tuning</a></dd>
-  <dd><strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
+  <dd>Renjie Pi<sup>&dagger;</sup>, <strong>Jianshu Zhang&dagger; </strong>, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang<sup>*</sup></dd>
   <dd>The Thirteenth International Conference on Learning Representations (<strong>ICLR 2025</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2410.07113">[arXiv]</a> <a href="https://github.com/sterzhang/PVIT">[code]</a></dd>
 </dl>
@@ -110,7 +112,7 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 <dl>
   <dt><img align="left" width="400" src="../images/paper/mllm-protector.png" alt="MLLM-Protector"></dt>
   <dd><a href="https://arxiv.org/pdf/2401.02906" class="publication-title">MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance</a></dd>
-  <dd><strong>Jianshu Zhang&dagger; </strong>, Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup></dd>
+  <dd>Renjie Pi<sup>&dagger;</sup>, Tianyang Han<sup>&dagger;</sup>, <strong>Jianshu Zhang&dagger; </strong>, Yueqi XIE, Rui Pan, Qing LIAN, Hanze Dong, Jipeng Zhang, Tong Zhang<sup>*</sup></dd>
   <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2024</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2401.02906">[arXiv]</a> <a href="https://github.com/pipilurj/MLLM-protector">[code]</a></dd>
 </dl>
@@ -118,7 +120,7 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 <dl>
   <dt><img align="left" width="400" src="../images/paper/first.png" alt="FIRST"></dt>
   <dd><a href="https://arxiv.org/pdf/2408.12168" class="publication-title">FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation</a></dd>
-  <dd><strong>Jianshu Zhang&dagger; </strong>, KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza</dd>
+  <dd>KaShun SHUM<sup>&dagger;</sup>, Minrui Xu<sup>&dagger;</sup>, <strong>Jianshu Zhang&dagger; </strong>, Zixin CHEN, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza</dd>
   <dd>The 2024 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP 2024</strong>)</dd>
   <dd><a href="https://arxiv.org/pdf/2408.12168">[arXiv]</a> <a href="https://github.com/sterzhang/FIRST">[code]</a></dd>
 </dl>
@@ -126,7 +128,7 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 <dl>
   <dt><img align="left" width="400" src="../images/paper/fuzzllm.png" alt="FuzzLLM"></dt>
   <dd><a href="https://ieeexplore.ieee.org/document/10448041" class="publication-title">FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models</a></dd>
-  <dd><strong>Jianshu Zhang&dagger; </strong>, Dongyu Yao<sup>&dagger;</sup>, Ian G. Harris<sup>*</sup>, Marcel Carlsson</dd>
+  <dd>Dongyu Yao<sup>&dagger;</sup>, <strong>Jianshu Zhang&dagger; </strong>, Ian G. Harris<sup>*</sup>, Marcel Carlsson</dd>
   <dd>2024 IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP 2024</strong>)</dd>
   <dd><a href="https://arxiv.org/abs/2309.05274">[arXiv]</a> <a href="https://github.com/sterzhang/FuzzLLM">[code]</a></dd>
 </dl>
@@ -154,7 +156,7 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 <dl>
   <dt><img align="left" width="400" src="../images/paper/bridge-coder.png" alt="Bridge-Coder"></dt>
   <dd><a href="https://arxiv.org/pdf/2410.18957" class="publication-title">Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code</a></dd>
-  <dd><strong>Jianshu Zhang&dagger; </strong>, Jipeng Zhang<sup>&dagger;</sup>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
+  <dd>Jipeng Zhang<sup>&dagger;</sup>, <strong>Jianshu Zhang&dagger; </strong>, Yuanzhe LI<sup>&dagger;</sup>, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang<sup>*</sup></dd>
   <dd>Under Review</dd>
   <dd><a href="https://arxiv.org/pdf/2410.18957">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
@@ -164,11 +166,11 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 
 <br/>
 
-# 🏆 Honors and Awards
+# 🏆 Awards
 
 - **National Scholarship** 
-- Merit Student (WHU)
-- First Class Scholarship (WHU)
+- Merit Student
+- First Class Scholarship
 
 
 
