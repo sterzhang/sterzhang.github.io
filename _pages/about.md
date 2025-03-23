@@ -57,10 +57,10 @@ redirect_from:
 # 🧑‍💻 About Me
 
 Greetings!👋
-I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate at the [Wuhan University](https://www.whu.edu.cn/) and an incoming CS PhD at the [Northwestern University](https://www.northwestern.edu/), co-supervised by Professor [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) and Professor [Manling Li](https://limanling.github.io/). 
+I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate at the [Wuhan University](https://www.whu.edu.cn/) and an incoming CS PhD at the [Northwestern University](https://www.northwestern.edu/).
 
 My long-term goal is to enhance the interaction between humans and AI by focusing on three key attributes: (i) reliability, (ii) multimodality, and (iii) adaptability. Specifically, my primary focus will be on bridging the gap between a model’s linguistic capabilities and its proficiency in other domains (especially in vision/action).
-Feel free to connect and discuss exciting opportunities or collaborations! ([wechat](https://sterzhang.github.io/images/wechat.jpg))
+<!-- Feel free to connect and discuss exciting opportunities or collaborations! ([wechat](https://sterzhang.github.io/images/wechat.jpg)) -->
 
 
 
@@ -71,7 +71,6 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 - *2024.09*: &nbsp; 1 paper (Image Textualization) has been accepted by **NeurIPS 2024** (D&B track). 
 - *2024.09*: &nbsp; 2 papers (MLLM-Protector, FIRST) have been accepted by **EMNLP 2024** (Main). 
 - *2024.03*: &nbsp; 1 paper (CORE) has been accepted by **Cogsci 2024** <strong><span style="color:red;">[Oral]</span></strong>.
-- *2024.01*: &nbsp; [FuzzLLM](https://arxiv.org/abs/2309.05274) has been invited to present at one of the top hacker conventions -- ShmooCon 2024!
 - *2023.12*: &nbsp; 1 paper (FuzzLLM) has been accepted by **ICASSP 2024**.
 
 
@@ -181,12 +180,10 @@ Feel free to connect and discuss exciting opportunities or collaborations! ([wec
 
 
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2024.10 - 2025.03,* Research Intern in [MIT](https://www.mit.edu/), under the supervision of Prof. [Paul Liang](https://pliang279.github.io/) and Dr. [Yi R. (May) Fung](https://yrf1.github.io/).
 - *2024.02 - 2024.12,* Research Assistant in [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), supervised by Prof. [Tong Zhang](https://tongzhang-ml.org/).
-- *2023.09 - 2024.5,* Research Assistant at [Data Security Lab, Wuhan University](https://datasec.whu.edu.cn/), supervised by Prof. [Kun He](https://cse.whu.edu.cn/info/1262/3298.htm).
-- *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html)
-- *2023.06 - 2023.09*, [Tencent](https://www.tencent.com/zh-cn/index.html), IEG (Interactive Entertainment Group), Shenzhen, China.
+- *2023.07 - 2023.09*, UCInspire Summer Research Program (University of California Irvine), supervised by Prof. [Ian G. Harris](https://www.ics.uci.edu/~harris/index.html) -->
 
 
 
