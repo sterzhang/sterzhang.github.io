@@ -58,20 +58,20 @@ redirect_from:
 
 Greetings!👋
 I'm Jianshu Zhang (张鉴殊), a 4th year undergraduate at the [Wuhan University](https://www.whu.edu.cn/) and an incoming CS PhD at the [Northwestern University](https://www.northwestern.edu/). 
-My long-term goal is to enhance the interaction between humans and models by focusing on three key attributes: (i) reliability, (ii) multimodality, and (iii) adaptability. 
+My long-term goal is to enhance the interaction between humans and computer by focusing on three key attributes: (i) reliability, (ii) multimodality, and (iii) adaptability. 
 <!-- Specifically, my primary focus will be on bridging the gap between a model’s linguistic capabilities and its proficiency in other domains (especially in vision/action). -->
 <!-- Feel free to connect and discuss exciting opportunities or collaborations! ([wechat](https://sterzhang.github.io/images/wechat.jpg)) -->
 
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2025.01*: &nbsp; 1 paper (PVIT) has been accepted by **ICLR 2025**. ✊
 - *2024.11*: &nbsp; Dataset of [PVIT-3M](https://huggingface.co/datasets/Sterzhang/PVIT-3M) made it to the **Top 3 Dataset downloads** [November 2024] at HuggingFace🤗! [（Post from X）](https://x.com/mvaloatto/status/1865102836092277077)
 - *2024.10*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.2% national-wide)!
 - *2024.09*: &nbsp; 1 paper (Image Textualization) has been accepted by **NeurIPS 2024** (D&B track). 
 - *2024.09*: &nbsp; 2 papers (MLLM-Protector, FIRST) have been accepted by **EMNLP 2024** (Main). 
 - *2024.03*: &nbsp; 1 paper (CORE) has been accepted by **Cogsci 2024** <strong><span style="color:red;">[Oral]</span></strong>.
-- *2023.12*: &nbsp; 1 paper (FuzzLLM) has been accepted by **ICASSP 2024**.
+- *2023.12*: &nbsp; 1 paper (FuzzLLM) has been accepted by **ICASSP 2024**. -->
 
 
 <br/>
@@ -146,8 +146,8 @@ My long-term goal is to enhance the interaction between humans and models by foc
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/can.png" alt="Client As Navigator"></dt>
-  <dd><a href="" class="publication-title">CAN: Injecting More "Federation" into Federated Continual Learning by Positioning Clients as Navigators</a></dd>
-  <dd><strong>Jianshu Zhang&dagger; </strong>, Xuankun Rong<sup>&dagger;</sup>, Kun He, Mang Ye<sup>*</sup></dd>
+  <dd><a href="" class="publication-title">CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning</a></dd>
+  <dd>Xuankun Rong<sup>&dagger;</sup>, <strong>Jianshu Zhang&dagger; </strong>, Kun He, Mang Ye<sup>*</sup></dd>
   <dd>Under Review</dd>
   <dd><a href="#">[arXiv]</a> <a href="#">[code]</a></dd>
 </dl>
