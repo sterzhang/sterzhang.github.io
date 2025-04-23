@@ -46,11 +46,16 @@ Then simply include the list here: -->
 
 ## More
 
-Currently, I am a research intern at **Tencent AI Lab (Seattle)**, working on Agents.
+<p>
+Currently, I am a research intern at <strong>Tencent AI Lab (Seattle)</strong>, working on embodied AI agents.
+</p>
 
+<p>
 Previously, I had the privilege of working closely with  
-Prof. [**Tong Zhang**](https://tongzhang-ml.org/) at UIUC, Prof. [**Paul Liang**](https://pliang279.github.io/) at MIT, and Prof. [**Yiren Fung**](https://mayrfung.github.io/) at HKUST,  
+Prof. <strong>Tong Zhang</strong> (UIUC), Prof. <strong>Paul Liang</strong> (MIT), and Prof. <strong>Yiren Fung</strong> (HKUST),  
 to whom I am deeply grateful for their guidance and support. 🙏
+</p>
+
 
 ---
 
