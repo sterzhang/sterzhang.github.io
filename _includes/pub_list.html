@@ -1,4 +1,4 @@
-{% assign pubs = site.data.publications | sort: 'year' | reverse %}
+{% assign pubs = site.data.publications %}
 {% for pub in pubs %}
   <dl style="overflow:hidden;margin-bottom:1.2rem;">
     {% if pub.image %}
