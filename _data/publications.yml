@@ -1,0 +1,27 @@
+# 以时间倒序写入；想换顺序只需调节这几个字段
+# 每一项的字段可按需增删，模板里能灵活调用
+- title: 'VLM$^2$-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues'
+  authors: 'Jianshu Zhang†, Dongyu Yao†, Renjie Pi, Paul Pu Liang, Yi R. (May) Fung*'
+  venue: 'Under Review'
+  year: 2025
+  arxiv: 'https://arxiv.org/pdf/2502.12084'
+  project: 'https://vlm2-bench.github.io/'
+  image: '/images/paper/vlm2-bench.png'
+
+- title: 'Image Textualization: An Automatic Framework for Generating Rich and Detailed Image Descriptions'
+  authors: 'Renjie Pi†, Jianshu Zhang†, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang*'
+  venue: 'NeurIPS 2024'
+  year: 2024
+  arxiv: 'https://arxiv.org/pdf/2406.07502'
+  code:  'https://github.com/sterzhang/image-textualization'
+  image: '/images/paper/it.png'
+
+- title: 'Personalized Visual Instruction Tuning'
+  authors: 'Renjie Pi†, Jianshu Zhang†, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang*'
+  venue: 'ICLR 2025'
+  year: 2025
+  arxiv: 'https://arxiv.org/pdf/2410.07113'
+  code:  'https://github.com/sterzhang/PVIT'
+  image: '/images/paper/pvit.png'
+
+# …更多论文继续往下加
