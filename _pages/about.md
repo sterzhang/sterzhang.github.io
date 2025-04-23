@@ -29,18 +29,18 @@ Then simply include the list here: -->
 ## Awards
 
 - **National Scholarship** .
-- **First‑Class Scholarship** （ranked 1st).
+- **First‑Class Scholarship** (ranked 1st).
 - **Merit Student**.
 
 ---
 
 ## Education
 
-- *2025 - 2030* **Northwestern University**
+- **Northwestern University** (*2025 - 2030* )
 
-- *2021 – 2025* **Wuhan University**
+- **Wuhan University** (*2021 – 2025*)
 
-- *2018 – 2021* **Shenzhen Middle School**
+- **Shenzhen Middle School** (*2018 – 2021*)
 
 ---
 
