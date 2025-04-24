@@ -47,7 +47,7 @@ Then simply include the list here: -->
 ## More
 
 <p>
-Currently, I am a research intern at <strong>Tencent AI Lab (Seattle)</strong>, working on embodied AI agents.
+Currently, I am a research intern at <strong>Tencent AI Lab (Seattle)</strong>, working on Agents.
 </p>
 
 <p>
