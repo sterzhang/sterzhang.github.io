@@ -16,6 +16,16 @@ My research focuses on Multimodal Learning, Agent.
 I’m always keen to discuss new ideas and collaborations—feel free to reach out!
 
 
+## News
+- *2025.01*: &nbsp; 1 paper (PVIT) has been accepted by **ICLR 2025**. 
+- *2024.11*: &nbsp; Dataset of [PVIT-3M](https://huggingface.co/datasets/Sterzhang/PVIT-3M) made it to the **Top 3 Dataset downloads** [November 2024] at HuggingFace🤗! [（Post from X）](https://x.com/mvaloatto/status/1865102836092277077)
+- *2024.10*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.2% national-wide).
+- *2024.09*: &nbsp; 1 paper (Image Textualization) has been accepted by **NeurIPS 2024** (D&B track). 
+- *2024.09*: &nbsp; 2 papers (MLLM-Protector, FIRST) have been accepted by **EMNLP 2024** (Main). 
+- *2024.03*: &nbsp; 1 paper (CORE) has been accepted by **Cogsci 2024** <strong><span style="color:red;">[Oral]</span></strong>.
+- *2023.12*: &nbsp; 1 paper (FuzzLLM) has been accepted by **ICASSP 2024**.
+
+
 ## Selected Publications
 Full publist can be found [here](https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en).
 <!-- The publication list is now modular.  
