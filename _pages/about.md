@@ -17,6 +17,7 @@ I’m always keen to discuss new ideas and collaborations—feel free to reach o
 
 
 ## News
+- *2025.05*: &nbsp; 1 paper (CAN) has been accepted by **ICML 2025**. 
 - *2025.01*: &nbsp; 1 paper (PVIT) has been accepted by **ICLR 2025**. 
 - *2024.11*: &nbsp; Dataset of [PVIT-3M](https://huggingface.co/datasets/Sterzhang/PVIT-3M) made it to the **Top 3 Dataset downloads** [November 2024] at HuggingFace🤗! [（Post from X）](https://x.com/mvaloatto/status/1865102836092277077)
 - *2024.10*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.2% national-wide).
@@ -39,6 +40,7 @@ Then simply include the list here: -->
 ## Awards
 
 - **National Scholarship** .
+- **Lei Jun Computer Breakthrough Award** (💰50K RMB).
 - **First‑Class Scholarship** (ranked 1st).
 - **Merit Student**.
 
