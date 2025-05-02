@@ -48,7 +48,7 @@ Then simply include the list here: -->
 
 ## Education
 
-- **Northwestern University** (*2025 - 2030* )
+- **Northwestern University** (*2025 - 2030*)
 
 - **Wuhan University** (*2021 – 2025*)
 
