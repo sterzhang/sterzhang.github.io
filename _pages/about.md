@@ -17,16 +17,16 @@ I’m always keen to discuss new ideas and collaborations—feel free to reach o
 
 
 ## News
-- *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(239, 144, 11);">VLM2-Bench</span> has been accepted by **ACL 2025** (Main) and <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(20, 131, 222);">Bridge-Coder</span> has been accepted by **ACL 2025** (Findings). 
+- *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">VLM2-Bench</span> has been accepted by **ACL 2025** (Main) and <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">Bridge-Coder</span> has been accepted by **ACL 2025** (Findings). 
 - *2025.05*: &nbsp; I won the **Lei Jun Computer Breakthrough Award** (50K RMB). 
-- *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(239, 79, 16);">CAN</span> has been accepted by **ICML 2025**. 
-- *2025.01*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(239, 172, 16);">PVIT</span> has been accepted by **ICLR 2025**. 
+- *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">CAN</span> has been accepted by **ICML 2025**. 
+- *2025.01*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">PVIT</span> has been accepted by **ICLR 2025**. 
 - *2024.11*: &nbsp; Dataset of [PVIT-3M](https://huggingface.co/datasets/Sterzhang/PVIT-3M) made it to the **Top 3 Dataset downloads** [November 2024] at HuggingFace🤗! [（Post from X）](https://x.com/mvaloatto/status/1865102836092277077)
 - *2024.10*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.2% national-wide).
-- *2024.09*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(93, 13, 241);">Image Textualization</span> has been accepted by **NeurIPS 2024** (D&B track). 
-- *2024.09*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(239, 57, 16);">MLLM-Protector</span>, <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(21, 78, 236);">FIRST</span> have been accepted by **EMNLP 2024** (Main). 
-- *2024.03*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(12, 189, 95);">CORE</span> has been accepted by **Cogsci 2024** <strong><span style="color:red;">[Oral]</span></strong>.
-- *2023.12*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(202, 63, 84);">FuzzLLM</span> has been accepted by **ICASSP 2024**.
+- *2024.09*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">Image Textualization</span> has been accepted by **NeurIPS 2024** (D&B track). 
+- *2024.09*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">MLLM-Protector</span>, <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">FIRST</span> have been accepted by **EMNLP 2024** (Main). 
+- *2024.03*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">CORE</span> has been accepted by **Cogsci 2024** <strong><span style="color:red;">[Oral]</span></strong>.
+- *2023.12*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">FuzzLLM</span> has been accepted by **ICASSP 2024**.
 
 
 ## Selected Publications
