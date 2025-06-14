@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I’m **Jianshu Zhang (张鉴殊)**. I’ll begin my PhD in Computer Science at **Northwestern University** in Fall 2025, fortunately advised by Prof. [**Manling Li**](https://limanling.github.io/) and Prof. [**Han Liu**](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html).
 
-My research focuses on Multimodal Learning, Agent.
+My research focuses on Multimodal Learning, Web Agents, Spatial Understanding.
 
 I’m always keen to discuss new ideas and collaborations—feel free to reach out!
 
@@ -30,7 +30,7 @@ I’m always keen to discuss new ideas and collaborations—feel free to reach o
 
 
 ## Selected Publications
-Full publist can be found [here](https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en).
+Full list → [Google Scholar](https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en).
 <!-- The publication list is now modular.  
 Create a YAML file at `_data/publications.yml` with your publication entries, and an include file at `_includes/pub_list.html` that loops through them.  
 Then simply include the list here: -->
@@ -41,7 +41,7 @@ Then simply include the list here: -->
 
 ## Awards
 
-- **National Scholarship** .
+- **National Scholarship**.
 - **Lei Jun Computer Breakthrough Award** (💰50K RMB).
 - **First‑Class Scholarship** (ranked 1st).
 - **Merit Student**.
@@ -70,6 +70,9 @@ Prof. <strong>Tong Zhang</strong> (UIUC), Prof. <strong>Paul Liang</strong> (MIT
 to whom I am deeply grateful for their guidance and support. 🙏
 </p>
 
+<p>
+My leisure time consists of: 🏀, 🎱, 🏓, 🏊, 🏋️, 🎸, 💤.
+</p>
 
 ---
 
