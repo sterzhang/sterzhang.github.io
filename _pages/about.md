@@ -11,12 +11,14 @@ redirect_from:
 
 Hi! I’m **Jianshu Zhang (张鉴殊)**. I’ll begin my PhD in Computer Science at **Northwestern University** in Fall 2025, fortunately advised by Prof. [**Manling Li**](https://limanling.github.io/) and Prof. [**Han Liu**](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html).
 
-My research focuses on Multimodal Learning, Web Agents, Spatial Understanding.
+My research focuses on Multimodal Learning, Web Agent, Spatial Understanding.
 
 I’m always keen to discuss new ideas and collaborations—feel free to reach out!
 
 
 ## News
+- *2025.06*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">MultiVerse</span> has been accepted by **ICCV 2025**. 
+- *2025.06*: &nbsp; 🎓 I obtained my Bachelor of Engineering (B.E.) degree and selected as **Outstanding Undergraduate**.
 - *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">VLM2-Bench</span> has been accepted by **ACL 2025** (Main) and <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">Bridge-Coder</span> has been accepted by **ACL 2025** (Findings). 
 - *2025.05*: &nbsp; I won the **Lei Jun Computer Breakthrough Award** (50K RMB). 
 - *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">CAN</span> has been accepted by **ICML 2025**. 
@@ -43,6 +45,7 @@ Then simply include the list here: -->
 
 - **National Scholarship**.
 - **Lei Jun Computer Breakthrough Award** (💰50K RMB).
+- **Outstanding Undergraduate**
 - **First‑Class Scholarship** (ranked 1st).
 - **Merit Student**.
 
@@ -61,7 +64,7 @@ Then simply include the list here: -->
 ## More
 
 <p>
-Currently, I am a research intern at <strong>Tencent AI Lab (Seattle)</strong>, working on Agents.
+Currently, I am a research intern at <strong>Tencent AI Lab</strong>, working on Agents.
 </p>
 
 <p>
