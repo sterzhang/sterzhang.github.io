@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I’m **Jianshu Zhang (张鉴殊)**. I’ll begin my PhD in Computer Science at **Northwestern University** in Fall 2025, fortunately advised by Prof. [**Manling Li**](https://limanling.github.io/) and Prof. [**Han Liu**](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html).
 
-My research focuses on Multimodal Learning, Web Agent, Spatial Understanding.
+My research focuses on Multimodal Learning, Agentic AI, and Spatial Understanding.
 
 I’m always keen to discuss new ideas and collaborations—feel free to reach out!
 
@@ -64,11 +64,7 @@ Then simply include the list here: -->
 ## More
 
 <p>
-Currently, I am a research intern at <strong>Tencent AI Lab</strong>, working on Agents.
-</p>
-
-<p>
-Previously, I had the privilege of working closely with  
+Previously, I was a research intern at <strong>Tencent AI Lab</strong>, working on Web Agents. I also had the privilege of working closely with  
 Prof. <strong>Tong Zhang</strong> (UIUC), Prof. <strong>Paul Liang</strong> (MIT), and Prof. <strong>Yiren Fung</strong> (HKUST),  
 to whom I am deeply grateful for their guidance and support. 🙏
 </p>
