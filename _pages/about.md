@@ -64,7 +64,7 @@ Then simply include the list here: -->
 ## More
 
 <p>
-Previously, I was a research intern at <strong>Tencent AI Lab</strong>, working on Web Agents. I also had the privilege of working closely with  
+I had the privilege of working closely with  
 Prof. <strong>Tong Zhang</strong> (UIUC), Prof. <strong>Paul Liang</strong> (MIT), and Prof. <strong>Yiren Fung</strong> (HKUST),  
 to whom I am deeply grateful for their guidance and support. 🙏
 </p>
