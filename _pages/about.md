@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hi! I’m **Jianshu Zhang (张鉴殊)**. I’ll begin my PhD in Computer Science at **Northwestern University** in Fall 2025, fortunately advised by Prof. [**Manling Li**](https://limanling.github.io/) and Prof. [**Han Liu**](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html).
+Hi! I’m **Jianshu Zhang (张鉴殊)**. I am a first-year CS Ph.D. student at **Northwestern University**, fortunately co-advised by Prof. [**Manling Li**](https://limanling.github.io/) and Prof. [**Han Liu**](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html).
 
 My research focuses on Multimodal Learning, Agentic AI, and Spatial Understanding.
 
@@ -44,9 +44,9 @@ Then simply include the list here: -->
 ## Awards
 
 - **National Scholarship**.
-- **Lei Jun Computer Breakthrough Award** (💰50K RMB).
+- **Lei Jun Computer Breakthrough Award** *(💰50K RMB)*.
 - **Outstanding Undergraduate**
-- **First‑Class Scholarship** (ranked 1st).
+- **First‑Class Scholarship** *(ranked 1st)*.
 - **Merit Student**.
 
 ---
