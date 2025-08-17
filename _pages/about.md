@@ -70,7 +70,7 @@ to whom I am deeply grateful for their guidance and support. 🙏
 </p>
 
 <p>
-My leisure time consists of: 🏀, 🎱, 🏓, 🏊, 🏋️, 🎸, 💤.
+My leisure time consists of: 🏀, 🎱, 🏓, 🏊, 🏋️, 🎸, 💤. I love coding at 12:11 every day.
 </p>
 
 ---
