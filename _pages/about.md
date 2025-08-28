@@ -17,6 +17,8 @@ I’m always keen to discuss new ideas and collaborations—feel free to reach o
 
 
 ## News
+- *2025.08*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">Evo-MARL</span> and <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">FairReason</span> have been accepted by **T2FM@ICCV 2025**. 
+- *2025.08*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">WebCoT</span> has been accepted by **EMNLP 2025** (Findings) and **AIA@COLM 2025**. 
 - *2025.06*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">MultiVerse</span> has been accepted by **ICCV 2025**. 
 - *2025.06*: &nbsp; 🎓 I obtained my Bachelor of Engineering (B.E.) degree and selected as **Outstanding Undergraduate**.
 - *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">VLM2-Bench</span> has been accepted by **ACL 2025** (Main) and <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">Bridge-Coder</span> has been accepted by **ACL 2025** (Findings). 
