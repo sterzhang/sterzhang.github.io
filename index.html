@@ -1,110 +1,413 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jianshu Zhang</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
 
-<header>
-  <img alt="{{ site.author.name }} portrait" src="{{ site.author.avatar | relative_url }}" />
-  <h1><strong>{{ site.author.name }}</strong></h1>
-  <p>
-    CS Ph.D. student at Northwestern University.
-  </p>
-  <ul class="contact">
-    <li>{{ site.description }}</li>
-    <li>{{ site.author.location }}</li>
-    <li><a href="mailto:{{ site.author.email }}">Email</a></li>
-    <li><a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a></li>
-    <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
-    <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
-  </ul>
-</header>
+      html,
+      body {
+        min-height: 100%;
+      }
 
-<section class="content">
-  <article id="about">
-    <h2>About</h2>
-    <p>
-      Hi! I’m <strong>Jianshu Zhang (张鉴殊)</strong>, a first-year CS Ph.D. student at Northwestern University.
-      I am passionate about building intelligent systems that understand and act in the physical world through multimodal reasoning.
-      I love collaborating on ambitious ideas—feel free to reach out if you’d like to chat.
-    </p>
-  </article>
+      body {
+        background: linear-gradient(to right, #191129 0%, #2d1c47 100%);
+        color: rgba(255, 255, 255, 0.88);
+        font-family: "Georgia", serif;
+        font-size: 17px;
+        margin: 60px 100px 0;
+        line-height: 1.65;
+      }
 
-  <article id="research">
-    <h2>Research Highlights</h2>
-    <p>
-      I am broadly interested in multimodal intelligence for embodied and agentic systems.
-    </p>
-    <ul>
-      <li><strong>Multimodal learning</strong> that grounds language with perception and action.</li>
-      <li><strong>Agentic AI</strong> for reliable, tool-augmented reasoning.</li>
-      <li><strong>Spatial understanding</strong> of 3D environments and complex scenes.</li>
-    </ul>
-  </article>
+      @media only screen and (max-width: 600px) {
+        body {
+          margin: 50px 50px 0;
+        }
+      }
 
-  <article id="news">
-    <h2>News</h2>
-    <ul class="news-list">
-      <li><span class="news-date">2025.08</span> Evo-MARL and FairReason were accepted to <strong>T2FM@ICCV 2025</strong>.</li>
-      <li><span class="news-date">2025.08</span> WebCoT was accepted to <strong>EMNLP 2025 (Findings)</strong> and <strong>AIA@COLM 2025</strong>.</li>
-      <li><span class="news-date">2025.06</span> MultiVerse was accepted to <strong>ICCV 2025</strong>.</li>
-      <li><span class="news-date">2025.06</span> 🎓 Graduated with a B.E. degree and selected as <strong>Outstanding Undergraduate</strong>.</li>
-      <li><span class="news-date">2025.05</span> VLM2-Bench was accepted to <strong>ACL 2025 (Main)</strong>, and Bridge-Coder to <strong>ACL 2025 (Findings)</strong>.</li>
-      <li><span class="news-date">2025.05</span> Honored with the <strong>Lei Jun Computer Breakthrough Award</strong> (50K RMB).</li>
-      <li><span class="news-date">2025.05</span> CAN was accepted to <strong>ICML 2025</strong>.</li>
-      <li><span class="news-date">2025.01</span> PVIT was accepted to <strong>ICLR 2025</strong>.</li>
-      <li><span class="news-date">2024.11</span> PVIT-3M dataset ranked Top 3 in downloads on Hugging Face.</li>
-      <li><span class="news-date">2024.10</span> Awarded the <strong>National Scholarship</strong> (top 0.2% nationally).</li>
-      <li><span class="news-date">2024.09</span> Image Textualization accepted to <strong>NeurIPS 2024 (D&B)</strong>.</li>
-      <li><span class="news-date">2024.09</span> MLLM-Protector and FIRST accepted to <strong>EMNLP 2024 (Main)</strong>.</li>
-      <li><span class="news-date">2024.03</span> CORE accepted to <strong>CogSci 2024</strong> (Oral).</li>
-      <li><span class="news-date">2023.12</span> FuzzLLM accepted to <strong>ICASSP 2024</strong>.</li>
-    </ul>
-  </article>
+      @media only screen and (max-width: 400px) {
+        body {
+          margin: 32px 20px 0;
+        }
+      }
 
-  <article id="publications">
-    <h2>Selected Publications</h2>
-    {% for pub in site.data.publications %}
-      <div class="publication-entry">
-        <p class="publication-title">
-          {% if pub.link %}
-            <a href="{{ pub.link }}">{{ pub.title }}</a>
-          {% else %}
-            {{ pub.title }}
-          {% endif %}
+      a {
+        color: #c9a7ff;
+        text-decoration: none;
+        transition: color 0.3s ease, border-color 0.3s ease;
+      }
+
+      a:hover,
+      a:focus {
+        color: #f3e5ff;
+      }
+
+      p,
+      span,
+      li {
+        color: rgba(255, 255, 255, 0.88);
+        font-size: 1.05em;
+      }
+
+      h1,
+      h2,
+      h3 {
+        color: #ffffff;
+        font-weight: bold;
+      }
+
+      h1 {
+        font-size: 2.3em;
+        margin-bottom: 0.75em;
+      }
+
+      h2 {
+        font-size: 1.55em;
+        margin-top: 2.5em;
+        margin-bottom: 1em;
+      }
+
+      strong {
+        color: #ffffff;
+      }
+
+      ul {
+        padding-left: 1.1rem;
+      }
+
+      ul li {
+        margin-bottom: 0.6rem;
+      }
+
+      header {
+        width: 360px;
+        padding: 0 50px 0 0;
+        position: relative;
+        float: left;
+      }
+
+      @media only screen and (max-width: 600px) {
+        header {
+          float: none;
+          width: 100%;
+          padding: 0;
+        }
+      }
+
+      header img {
+        width: 100%;
+        border-radius: 12px;
+        margin-bottom: 24px;
+        box-shadow: 0 20px 45px rgba(0, 0, 0, 0.35);
+      }
+
+      header p {
+        margin-bottom: 22px;
+      }
+
+      header ul {
+        list-style: none;
+        padding: 0;
+      }
+
+      nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 20px;
+      }
+
+      nav ul li {
+        display: block;
+        margin-bottom: 12px;
+        font-weight: 600;
+      }
+
+      nav ul li a {
+        font-size: 0.95em;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+
+      .contact {
+        list-style: none;
+        margin: 1.5rem 0 0;
+        padding: 0;
+      }
+
+      .contact li {
+        margin-bottom: 0.5rem;
+      }
+
+      .content {
+        margin-left: 420px;
+        max-width: 980px;
+        font-size: 1em;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .content {
+          margin-left: 0;
+          margin-top: 50px;
+          padding: 40px 0 60px;
+          border-top: 1px solid rgba(255, 255, 255, 0.18);
+          max-width: 100%;
+        }
+      }
+
+      .content article + article {
+        margin-top: 2.5em;
+      }
+
+      .content article:first-of-type h2 {
+        margin-top: 1em;
+      }
+
+      .content p {
+        margin-bottom: 1.2em;
+      }
+
+      .content ul {
+        margin-top: 0.5em;
+      }
+
+      .news-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      .news-list li {
+        margin-bottom: 0.55em;
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 0.6rem;
+      }
+
+      .news-date {
+        font-weight: 600;
+        color: #ffffff;
+        min-width: 4.5rem;
+      }
+
+      .publication-entry {
+        padding-bottom: 1.2em;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        margin-bottom: 1.2em;
+      }
+
+      .publication-entry:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
+        padding-bottom: 0;
+      }
+
+      .publication-title {
+        font-size: 1.05em;
+        font-weight: 600;
+        margin-bottom: 0.3em;
+      }
+
+      .publication-authors,
+      .publication-venue {
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 0.95em;
+        margin-bottom: 0.2em;
+      }
+
+      .publication-venue {
+        font-style: italic;
+      }
+
+      article ul {
+        list-style: disc;
+      }
+
+      article ul li {
+        display: list-item;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img alt="Portrait of Jianshu Zhang" src="images/chicago.jpg">
+      <h1><strong>Jianshu Zhang</strong></h1>
+      <p>
+        CS Ph.D. student at Northwestern University, co-advised by
+        <a href="https://limanling.github.io/">Prof. Manling Li</a>
+        and
+        <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html">Prof. Han Liu</a>.
+        I explore multimodal learning, agentic intelligence, and spatial understanding.
+      </p>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#research">Research</a></li>
+          <li><a href="#news">News</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <li><a href="#awards">Awards</a></li>
+          <li><a href="#education">Education</a></li>
+        </ul>
+      </nav>
+      <ul class="contact">
+        <li>sterzhang [at] u.northwestern.edu</li>
+        <li>Evanston, IL, USA</li>
+        <li><a href="mailto:jianshu.zhang777@gmail.com">Email</a></li>
+        <li><a href="https://twitter.com/SterZhang">Twitter</a></li>
+        <li><a href="https://github.com/sterzhang">GitHub</a></li>
+        <li><a href="https://scholar.google.com/citations?user=52dkNnkAAAAJ&amp;hl=en">Google Scholar</a></li>
+      </ul>
+    </header>
+
+    <section class="content">
+      <article id="about">
+        <h2>About</h2>
+        <p>
+          Hi! I’m <strong>Jianshu Zhang (张鉴殊)</strong>, a first-year CS Ph.D. student at Northwestern University.
+          I am passionate about building intelligent systems that understand and act in the physical world through multimodal reasoning.
+          I love collaborating on ambitious ideas—feel free to reach out if you’d like to chat.
         </p>
-        <p class="publication-authors">{{ pub.authors }}</p>
-        <p class="publication-venue">
-          {{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}
+      </article>
+
+      <article id="research">
+        <h2>Research Highlights</h2>
+        <p>I am broadly interested in multimodal intelligence for embodied and agentic systems.</p>
+        <ul>
+          <li><strong>Multimodal learning</strong> that grounds language with perception and action.</li>
+          <li><strong>Agentic AI</strong> for reliable, tool-augmented reasoning.</li>
+          <li><strong>Spatial understanding</strong> of 3D environments and complex scenes.</li>
+        </ul>
+      </article>
+
+      <article id="news">
+        <h2>News</h2>
+        <ul class="news-list">
+          <li><span class="news-date">2025.08</span> Evo-MARL and FairReason were accepted to <strong>T2FM@ICCV 2025</strong>.</li>
+          <li><span class="news-date">2025.08</span> WebCoT was accepted to <strong>EMNLP 2025 (Findings)</strong> and <strong>AIA@COLM 2025</strong>.</li>
+          <li><span class="news-date">2025.06</span> MultiVerse was accepted to <strong>ICCV 2025</strong>.</li>
+          <li><span class="news-date">2025.06</span> 🎓 Graduated with a B.E. degree and selected as <strong>Outstanding Undergraduate</strong>.</li>
+          <li><span class="news-date">2025.05</span> VLM2-Bench was accepted to <strong>ACL 2025 (Main)</strong>, and Bridge-Coder to <strong>ACL 2025 (Findings)</strong>.</li>
+          <li><span class="news-date">2025.05</span> Honored with the <strong>Lei Jun Computer Breakthrough Award</strong> (50K RMB).</li>
+          <li><span class="news-date">2025.05</span> CAN was accepted to <strong>ICML 2025</strong>.</li>
+          <li><span class="news-date">2025.01</span> PVIT was accepted to <strong>ICLR 2025</strong>.</li>
+          <li><span class="news-date">2024.11</span> PVIT-3M dataset ranked Top 3 in downloads on Hugging Face.</li>
+          <li><span class="news-date">2024.10</span> Awarded the <strong>National Scholarship</strong> (top 0.2% nationally).</li>
+          <li><span class="news-date">2024.09</span> Image Textualization accepted to <strong>NeurIPS 2024 (D&amp;B)</strong>.</li>
+          <li><span class="news-date">2024.09</span> MLLM-Protector and FIRST accepted to <strong>EMNLP 2024 (Main)</strong>.</li>
+          <li><span class="news-date">2024.03</span> CORE accepted to <strong>CogSci 2024</strong> (Oral).</li>
+          <li><span class="news-date">2023.12</span> FuzzLLM accepted to <strong>ICASSP 2024</strong>.</li>
+        </ul>
+      </article>
+
+      <article id="publications">
+        <h2>Selected Publications</h2>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://arxiv.org/abs/2502.12084">VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues</a></p>
+          <p class="publication-authors">Jianshu Zhang*, Dongyu Yao*, Renjie Pi, Paul Pu Liang, Yiren Fung</p>
+          <p class="publication-venue">ACL 2025 (Main), 2025</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://arxiv.org/abs/2506.21458">Spatial Mental Modeling from Limited Views</a></p>
+          <p class="publication-authors">Baiqiao Yin, Qineng Wang, Pingyue Zhang, Jianshu Zhang, Kangrui Wang, Zihan Wang, Jieyu Zhang, Keshigeyan Chandrasegaran, Han Liu, Ranjay Krishna, Saining Xie, Manling Li, Jiajun Wu, Li Fei-Fei</p>
+          <p class="publication-venue">arXiv preprint arXiv:2506.21458, 2025</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://arxiv.org/abs/2505.20013">WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback</a></p>
+          <p class="publication-authors">Minda Hu, Tianqing Fang, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King</p>
+          <p class="publication-venue">EMNLP 2025 (Findings), 2025</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://scholar.google.com/scholar?cluster=16443504121916289833&amp;hl=en&amp;oi=scholarr">CAN: Leveraging Clients as Navigators for Generative Replay in Federated Continual Learning</a></p>
+          <p class="publication-authors">Rong Xuankun, Zhang Jianshu, He Kun, Mang Ye</p>
+          <p class="publication-venue">ICML 2025, 2025</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://aclanthology.org/2025.findings-acl.567/">Bridge-Coder: Transferring Model Capabilities from High-Resource to Low-Resource Programming Language</a></p>
+          <p class="publication-authors">Jianshu Zhang, Jipeng Zhang, Yuanzhe Li, Renjie Pi, Rui Pan, Runtao Liu, Zheng Ziqiang, Tong Zhang</p>
+          <p class="publication-venue">ACL 2025 (Findings), 10865-10882, 2025</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://arxiv.org/abs/2401.02906">MLLM-Protector: Ensuring MLLM&#39;s Safety without Hurting Performance</a></p>
+          <p class="publication-authors">Renjie Pi*, Tianyang Han*, Jianshu Zhang*, Yueqi Xie, Rui Pan, Qing Lian, Hanze Dong, Jipeng Zhang, Tong Zhang</p>
+          <p class="publication-venue">EMNLP 2024 (Main), 2024</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://ieeexplore.ieee.org/document/10448041">FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models</a></p>
+          <p class="publication-authors">Dongyu Yao*, Jianshu Zhang*, Ian G. Harris, Marcel Carlsson</p>
+          <p class="publication-venue">ICASSP 2024, 2024</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://arxiv.org/abs/2406.07502">Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions</a></p>
+          <p class="publication-authors">Renjie Pi*, Jianshu Zhang*, Jipeng Zhang, Rui Pan, Zhekai Chen, Tong Zhang</p>
+          <p class="publication-venue">NeurIPS 2024, 2024</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://arxiv.org/abs/2410.07113">Personalized Visual Instruction Tuning</a></p>
+          <p class="publication-authors">Renjie Pi*, Jianshu Zhang*, Tianyang Han, Jipeng Zhang, Rui Pan, Tong Zhang</p>
+          <p class="publication-venue">ICLR 2025, 2024</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://arxiv.org/abs/2408.12168">FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation</a></p>
+          <p class="publication-authors">KaShun Shum*, Minrui Xu*, Jianshu Zhang*, Zixin Chen, Shizhe Diao, Hanze Dong, Jipeng Zhang, Muhammad Omer Raza</p>
+          <p class="publication-venue">EMNLP 2024 (Main), 2024</p>
+        </div>
+
+        <div class="publication-entry">
+          <p class="publication-title"><a href="https://arxiv.org/abs/2402.01348">CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay</a></p>
+          <p class="publication-authors">Jianshu Zhang*, Yankai Fu*, Ziheng Peng*, Dongyu Yao, Kun He</p>
+          <p class="publication-venue">CogSci 2024 (Oral), 2024</p>
+        </div>
+      </article>
+
+      <article id="awards">
+        <h2>Awards</h2>
+        <ul>
+          <li><strong>National Scholarship</strong></li>
+          <li><strong>Lei Jun Computer Breakthrough Award</strong> (50K RMB)</li>
+          <li><strong>Outstanding Undergraduate</strong></li>
+          <li><strong>First-Class Scholarship</strong> (ranked 1st)</li>
+          <li><strong>Merit Student</strong></li>
+        </ul>
+      </article>
+
+      <article id="education">
+        <h2>Education</h2>
+        <ul>
+          <li><strong>Northwestern University</strong>, Ph.D. in Computer Science (2025 – 2030)</li>
+          <li><strong>Wuhan University</strong>, B.E. in Computer Science (2021 – 2025)</li>
+          <li><strong>Shenzhen Middle School</strong> (2018 – 2021)</li>
+        </ul>
+      </article>
+
+      <article id="snapshot">
+        <h2>Scholar Snapshot</h2>
+        <ul>
+          <li><strong>Citations</strong>: 282 (since 2020)</li>
+          <li><strong>h-index</strong>: 7 &nbsp;•&nbsp; <strong>i10-index</strong>: 5</li>
+          <li><strong>Collaborators</strong>: Tong Zhang (UIUC), Dongyu Yao (CMU), Paul Liang (MIT), Li Fei-Fei (Stanford), Ranjay Krishna (UW &amp; AI2), Jiajun Wu (Stanford), Manling Li (Northwestern), Han Liu (Northwestern)</li>
+        </ul>
+      </article>
+
+      <article id="more">
+        <h2>More</h2>
+        <p>
+          I’m grateful for the mentorship of Prof. Tong Zhang (UIUC), Prof. Paul Liang (MIT), and Prof. Yiren Fung (HKUST).
+          Outside of research, you can find me on the court or at the gym—basketball, billiards, table tennis, swimming, lifting, guitar, and the occasional power nap keep me energized.
         </p>
-      </div>
-    {% endfor %}
-  </article>
-
-  <article id="awards">
-    <h2>Awards</h2>
-    <ul>
-      <li><strong>National Scholarship</strong></li>
-      <li><strong>Lei Jun Computer Breakthrough Award</strong> (50K RMB)</li>
-      <li><strong>Outstanding Undergraduate</strong></li>
-      <li><strong>First-Class Scholarship</strong> (ranked 1st)</li>
-      <li><strong>Merit Student</strong></li>
-    </ul>
-  </article>
-
-  <article id="education">
-    <h2>Education</h2>
-    <ul>
-      <li><strong>Northwestern University</strong>, Ph.D. in Computer Science (2025 – 2030)</li>
-      <li><strong>Wuhan University</strong>, B.E. in Computer Science (2021 – 2025)</li>
-      <li><strong>Shenzhen Middle School</strong> (2018 – 2021)</li>
-    </ul>
-  </article>
-
-  <article id="Misc">
-    <h2>Miscellaneous</h2>
-    <p>
-      I’m grateful for the mentorship of Prof. Tong Zhang (UIUC), Prof. Paul Liang (MIT), and Prof. Yiren Fung (HKUST).
-      Outside of research, I enjoy basketball🏀, billiards🎱, table tennis🏓, swimming🏊, gym🏋️, electric guitar🎸, and the occasional power nap😴 to keep me energized.
-    </p>
-  </article>
-</section>
+      </article>
+    </section>
+  </body>
+</html>
