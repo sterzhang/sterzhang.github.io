@@ -117,6 +117,11 @@ $accent-purple-visited: #c49bff;
 $border-soft: rgba(#ffffff, 0.18);
 $border-subtle: rgba(#ffffff, 0.08);
 
+html {
+    background: linear-gradient(160deg, $bg-deep-purple 0%, $bg-mid-purple 100%);
+    color: $text-soft-white;
+}
+
 body {
     background: linear-gradient(160deg, $bg-deep-purple 0%, $bg-mid-purple 100%);
     color: $text-soft-white;
@@ -142,6 +147,11 @@ a {
 }
 
 #main {
+    background: transparent;
+}
+
+.page,
+.page__inner-wrap {
     background: transparent;
 }
 
