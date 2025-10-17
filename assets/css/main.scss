@@ -108,29 +108,43 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-$bg-deep-purple: #0c0126;
-$bg-mid-purple: #120934;
-$text-soft-white: #ffffff;
+$bg-deep-purple: #060011;
+$bg-mid-purple: #140934;
+$bg-highlight: #1f0f45;
+$text-soft-white: #f7f5ff;
 $accent-purple: #d8b4ff;
 $accent-purple-hover: #f3e8ff;
 $accent-purple-visited: #c49bff;
-$border-soft: rgba(#ffffff, 0.18);
-$border-subtle: rgba(#ffffff, 0.08);
+$border-soft: rgba(#ffffff, 0.25);
+$border-subtle: rgba(#ffffff, 0.12);
 
 html {
-    background: linear-gradient(160deg, $bg-deep-purple 0%, $bg-mid-purple 100%);
+    background: linear-gradient(160deg, $bg-deep-purple 0%, $bg-mid-purple 60%, $bg-highlight 100%);
     color: $text-soft-white;
+    min-height: 100%;
 }
 
 body {
-    background: linear-gradient(160deg, $bg-deep-purple 0%, $bg-mid-purple 100%);
-    color: $text-soft-white;
+    position: relative;
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(160deg, $bg-deep-purple 0%, $bg-mid-purple 60%, $bg-highlight 100%) !important;
+    color: $text-soft-white !important;
+    background-attachment: fixed;
 }
 
 body,
 h1, h2, h3, h4, h5, h6,
 p, li, dt, dd {
     color: inherit;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background: inherit;
 }
 
 a {
@@ -150,23 +164,52 @@ a {
     background: transparent;
 }
 
+.layout--default,
+.layout--archive,
+.layout--home,
+.layout--single,
+.layout--about,
+.page,
+.page__inner-wrap,
+.page__content,
+.sidebar,
+.author__sidebar,
+.page__meta,
+.page__share,
+.page__comments,
+.page__footer {
+    background: transparent;
+    color: $text-soft-white;
+}
+
 .page,
 .page__inner-wrap {
     background: transparent;
 }
 
 .masthead {
-    background: rgba($bg-mid-purple, 0.92);
-    border-bottom: 1px solid $border-soft;
+    background: rgba($bg-mid-purple, 0.92) !important;
+    border-bottom: 1px solid $border-soft !important;
+    box-shadow: none;
 
     a {
-        color: $text-soft-white;
+        color: $text-soft-white !important;
 
         &:hover,
         &:focus {
-            color: $accent-purple-hover;
+            color: $accent-purple-hover !important;
         }
     }
+}
+
+.masthead__inner-wrap {
+    background: transparent !important;
+}
+
+.masthead__menu-item,
+.masthead__menu-item a,
+.masthead__menu li a {
+    color: $text-soft-white !important;
 }
 
 .page__content h1 {
@@ -184,6 +227,9 @@ blockquote {
 
 .sidebar {
     color: inherit;
+    background: transparent;
+    border: none;
+    box-shadow: none;
 
     a {
         color: $accent-purple;
@@ -195,14 +241,10 @@ blockquote {
     }
 }
 
-.sidebar .author__urls {
-    background: rgba($bg-mid-purple, 0.92);
-    border: 1px solid $border-soft;
-    box-shadow: 0 8px 20px rgba(#000000, 0.25);
-}
-
 .author__avatar img {
-    border-color: $border-soft;
+    border: none;
+    padding: 0;
+    box-shadow: none;
 }
 
 .page__footer {
@@ -283,5 +325,38 @@ pre {
 
     a {
         font-weight: 600;
+    }
+}
+
+.author__urls-wrapper {
+    display: block;
+    position: static;
+    margin-left: 0;
+    cursor: default;
+}
+
+.author__info-list {
+    list-style: none;
+    margin: 1.2em 0 0;
+    padding: 0;
+}
+
+.author__info-item {
+    margin-bottom: 0.45em;
+    font-size: 0.95em;
+    color: rgba(#ffffff, 0.85);
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.author__info-item a {
+    color: $accent-purple;
+    font-weight: 600;
+
+    &:hover,
+    &:focus {
+        color: $accent-purple-hover;
     }
 }
