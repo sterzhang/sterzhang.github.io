@@ -60,37 +60,11 @@ author:
 
 
 # Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
 exclude:
-  - docs
-  - google_scholar_crawler
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .github
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
   - node_modules
-  - package.json
-  - tmp
   - vendor
+  - Gemfile
+  - Gemfile.lock
 keep_files:
   - .git
   - .svn

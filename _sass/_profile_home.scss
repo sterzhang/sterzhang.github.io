@@ -11,9 +11,9 @@ body {
   background: linear-gradient(to right, $profile-background-start 0%, $profile-background-end 100%);
   color: $profile-body-text;
   font-family: $profile-font;
-  font-size: 15px;
+  font-size: 17px;
   margin: $profile-margin-default;
-  line-height: 1.6;
+  line-height: 1.65;
 
   @media #{$profile-break-below} {
     margin: $profile-margin-tablet;
@@ -39,7 +39,7 @@ p,
 span,
 li {
   color: $profile-body-text;
-  font-size: 0.98em;
+  font-size: 1.05em;
 }
 
 h1,
@@ -50,12 +50,12 @@ h3 {
 }
 
 h1 {
-  font-size: 2.1em;
+  font-size: 2.3em;
   margin-bottom: 0.75em;
 }
 
 h2 {
-  font-size: 1.4em;
+  font-size: 1.55em;
   margin-top: 2.5em;
   margin-bottom: 1em;
 }
@@ -78,6 +78,6 @@ ul li {
   padding: 0;
 
   li {
-    margin-bottom: 0.4rem;
+    margin-bottom: 0.5rem;
   }
 }
