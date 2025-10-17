@@ -1,20 +1,19 @@
 {% assign pubs = site.data.publications %}
+<ul class="publication-list">
 {% for pub in pubs %}
-  <dl style="overflow:hidden;margin-bottom:1.2rem;">
-    {% if pub.image %}
-      <dt style="float:left;margin-right:12px;">
-        <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" width="320">
-      </dt>
-    {% endif %}
-    <dd>
-      <span class="publication-title"><a href="{{ pub.arxiv | default:'#' }}">{{ pub.title }}</a></span>
-    </dd>
-    <dd>{{ pub.authors }}</dd>
-    <dd>{{ pub.venue }}</dd>
-    <dd>
-      {% if pub.arxiv %}<a href="{{ pub.arxiv }}">[arXiv]</a>{% endif %}
-      {% if pub.code %}&nbsp;<a href="{{ pub.code }}">[code]</a>{% endif %}
-      {% if pub.project %}&nbsp;<a href="{{ pub.project }}">[project]</a>{% endif %}
-    </dd>
-  </dl>
+  <li class="publication-item">
+    <p class="publication-title">
+      {% assign pub_link = pub.link | default: pub.arxiv | default: pub.project | default: '#' %}
+      <a href="{{ pub_link }}">{{ pub.title }}</a>
+    </p>
+    <p class="publication-authors">{{ pub.authors }}</p>
+    <p class="publication-meta">
+      {{ pub.venue }}
+      {% if pub.year %}&nbsp;•&nbsp;{{ pub.year }}{% endif %}
+      {% if pub.citations %}&nbsp;•&nbsp;{{ pub.citations }} citations{% endif %}
+      {% if pub.code %}&nbsp;·&nbsp;<a href="{{ pub.code }}">code</a>{% endif %}
+      {% if pub.project %}&nbsp;·&nbsp;<a href="{{ pub.project }}">project</a>{% endif %}
+    </p>
+  </li>
 {% endfor %}
+</ul>
