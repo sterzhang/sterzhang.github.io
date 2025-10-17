@@ -1,0 +1,132 @@
+---
+layout: default
+title: Home
+---
+
+<header>
+  <img alt="{{ site.author.name }} portrait" src="{{ site.author.avatar | relative_url }}" />
+  <h1><strong>{{ site.author.name }}</strong></h1>
+  <p>
+    CS Ph.D. student at Northwestern University, co-advised by
+    <a href="https://limanling.github.io/">Prof. Manling Li</a>
+    and <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html">Prof. Han Liu</a>.
+    I explore multimodal learning, agentic intelligence, and spatial understanding.
+  </p>
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#news">News</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#awards">Awards</a></li>
+      <li><a href="#education">Education</a></li>
+    </ul>
+  </nav>
+  <ul class="contact">
+    <li>{{ site.description }}</li>
+    <li>{{ site.author.location }}</li>
+    <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+    <li><a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a></li>
+    <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+    <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+  </ul>
+</header>
+
+<section class="content">
+  <article id="about">
+    <h2>About</h2>
+    <p>
+      Hi! I’m <strong>Jianshu Zhang (张鉴殊)</strong>, a first-year CS Ph.D. student at Northwestern University.
+      I am passionate about building intelligent systems that understand and act in the physical world through multimodal reasoning.
+      I love collaborating on ambitious ideas—feel free to reach out if you’d like to chat.
+    </p>
+  </article>
+
+  <article id="research">
+    <h2>Research Highlights</h2>
+    <p>
+      I am broadly interested in multimodal intelligence for embodied and agentic systems.
+    </p>
+    <ul>
+      <li><strong>Multimodal learning</strong> that grounds language with perception and action.</li>
+      <li><strong>Agentic AI</strong> for reliable, tool-augmented reasoning.</li>
+      <li><strong>Spatial understanding</strong> of 3D environments and complex scenes.</li>
+    </ul>
+  </article>
+
+  <article id="news">
+    <h2>News</h2>
+    <ul class="news-list">
+      <li><span class="news-date">2025.08</span> Evo-MARL and FairReason were accepted to <strong>T2FM@ICCV 2025</strong>.</li>
+      <li><span class="news-date">2025.08</span> WebCoT was accepted to <strong>EMNLP 2025 (Findings)</strong> and <strong>AIA@COLM 2025</strong>.</li>
+      <li><span class="news-date">2025.06</span> MultiVerse was accepted to <strong>ICCV 2025</strong>.</li>
+      <li><span class="news-date">2025.06</span> 🎓 Graduated with a B.E. degree and selected as <strong>Outstanding Undergraduate</strong>.</li>
+      <li><span class="news-date">2025.05</span> VLM2-Bench was accepted to <strong>ACL 2025 (Main)</strong>, and Bridge-Coder to <strong>ACL 2025 (Findings)</strong>.</li>
+      <li><span class="news-date">2025.05</span> Honored with the <strong>Lei Jun Computer Breakthrough Award</strong> (50K RMB).</li>
+      <li><span class="news-date">2025.05</span> CAN was accepted to <strong>ICML 2025</strong>.</li>
+      <li><span class="news-date">2025.01</span> PVIT was accepted to <strong>ICLR 2025</strong>.</li>
+      <li><span class="news-date">2024.11</span> PVIT-3M dataset ranked Top 3 in downloads on Hugging Face.</li>
+      <li><span class="news-date">2024.10</span> Awarded the <strong>National Scholarship</strong> (top 0.2% nationally).</li>
+      <li><span class="news-date">2024.09</span> Image Textualization accepted to <strong>NeurIPS 2024 (D&B)</strong>.</li>
+      <li><span class="news-date">2024.09</span> MLLM-Protector and FIRST accepted to <strong>EMNLP 2024 (Main)</strong>.</li>
+      <li><span class="news-date">2024.03</span> CORE accepted to <strong>CogSci 2024</strong> (Oral).</li>
+      <li><span class="news-date">2023.12</span> FuzzLLM accepted to <strong>ICASSP 2024</strong>.</li>
+    </ul>
+  </article>
+
+  <article id="publications">
+    <h2>Selected Publications</h2>
+    {% for pub in site.data.publications %}
+      <div class="publication-entry">
+        <p class="publication-title">
+          {% if pub.link %}
+            <a href="{{ pub.link }}">{{ pub.title }}</a>
+          {% else %}
+            {{ pub.title }}
+          {% endif %}
+        </p>
+        <p class="publication-authors">{{ pub.authors }}</p>
+        <p class="publication-venue">
+          {{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}
+        </p>
+      </div>
+    {% endfor %}
+  </article>
+
+  <article id="awards">
+    <h2>Awards</h2>
+    <ul>
+      <li><strong>National Scholarship</strong></li>
+      <li><strong>Lei Jun Computer Breakthrough Award</strong> (50K RMB)</li>
+      <li><strong>Outstanding Undergraduate</strong></li>
+      <li><strong>First-Class Scholarship</strong> (ranked 1st)</li>
+      <li><strong>Merit Student</strong></li>
+    </ul>
+  </article>
+
+  <article id="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Northwestern University</strong>, Ph.D. in Computer Science (2025 – 2030)</li>
+      <li><strong>Wuhan University</strong>, B.E. in Computer Science (2021 – 2025)</li>
+      <li><strong>Shenzhen Middle School</strong> (2018 – 2021)</li>
+    </ul>
+  </article>
+
+  <article id="snapshot">
+    <h2>Scholar Snapshot</h2>
+    <ul>
+      <li><strong>Citations</strong>: 282 (since 2020)</li>
+      <li><strong>h-index</strong>: 7 &nbsp;•&nbsp; <strong>i10-index</strong>: 5</li>
+      <li><strong>Collaborators</strong>: Tong Zhang (UIUC), Dongyu Yao (CMU), Paul Liang (MIT), Li Fei-Fei (Stanford), Ranjay Krishna (UW & AI2), Jiajun Wu (Stanford), Manling Li (Northwestern), Han Liu (Northwestern)</li>
+    </ul>
+  </article>
+
+  <article id="more">
+    <h2>More</h2>
+    <p>
+      I’m grateful for the mentorship of Prof. Tong Zhang (UIUC), Prof. Paul Liang (MIT), and Prof. Yiren Fung (HKUST).
+      Outside of research, you can find me on the court or at the gym—basketball, billiards, table tennis, swimming, lifting, guitar, and the occasional power nap keep me energized.
+    </p>
+  </article>
+</section>

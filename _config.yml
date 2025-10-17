@@ -122,10 +122,8 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
     values:
       layout: default
-      author_profile: true
 
 
 # Sass/SCSS

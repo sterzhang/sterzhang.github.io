@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background: linear-gradient(to right, $profile-background-start 0%, $profile-background-end 100%);
+  color: $profile-body-text;
+  font-family: $profile-font;
+  font-size: 15px;
+  margin: $profile-margin-default;
+  line-height: 1.6;
+
+  @media #{$profile-break-below} {
+    margin: $profile-margin-tablet;
+  }
+
+  @media #{$profile-break-small} {
+    margin: $profile-margin-mobile;
+  }
+}
+
+a {
+  color: $profile-hyperlink;
+  text-decoration: none;
+  transition: color 0.3s ease, border-color 0.3s ease;
+
+  &:hover,
+  &:focus {
+    color: $profile-hyperlink-hover;
+  }
+}
+
+p,
+span,
+li {
+  color: $profile-body-text;
+  font-size: 0.98em;
+}
+
+h1,
+h2,
+h3 {
+  color: $profile-heading-text;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2.1em;
+  margin-bottom: 0.75em;
+}
+
+h2 {
+  font-size: 1.4em;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+
+strong {
+  color: $profile-heading-text;
+}
+
+ul {
+  padding-left: 1.1rem;
+}
+
+ul li {
+  margin-bottom: 0.6rem;
+}
+
+.contact {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+
+  li {
+    margin-bottom: 0.4rem;
+  }
+}
