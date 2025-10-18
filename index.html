@@ -19,19 +19,33 @@
         color: rgba(255, 255, 255, 0.9);
         font-family: "Georgia", serif;
         font-size: 18px;
-        margin: 60px 110px 0;
+        margin: 0;
         line-height: 1.7;
       }
 
-      @media only screen and (max-width: 600px) {
-        body {
-          margin: 50px 50px 0;
+      .page-shell {
+        display: flex;
+        min-height: 100vh;
+        margin: 0 auto;
+        width: 100%;
+        padding: 70px 90px;
+        gap: 40px;
+      }
+
+      @media only screen and (max-width: 1100px) {
+        .page-shell {
+          flex-direction: column;
+          padding: 60px 60px;
+        }
+
+        header {
+          width: 100%;
         }
       }
 
-      @media only screen and (max-width: 400px) {
-        body {
-          margin: 32px 20px 0;
+      @media only screen and (max-width: 600px) {
+        .page-shell {
+          padding: 45px 28px;
         }
       }
 
@@ -91,19 +105,10 @@
       }
 
       header {
-        width: 360px;
-        padding: 0 50px 0 0;
-        position: relative;
-        float: left;
+        width: 320px;
+        padding: 0;
         text-align: left;
-      }
-
-      @media only screen and (max-width: 600px) {
-        header {
-          float: none;
-          width: 100%;
-          padding: 0;
-        }
+        flex-shrink: 0;
       }
 
       header img {
@@ -152,8 +157,7 @@
       }
 
       .content {
-        margin-left: 430px;
-        max-width: 1020px;
+        flex: 1;
         font-size: 1.05em;
       }
 
@@ -242,7 +246,8 @@
     </style>
   </head>
   <body>
-    <header>
+    <div class="page-shell">
+      <header>
       <img alt="Portrait of <strong>Jianshu Zhang</strong>" src="images/chicago.jpg">
       <h1><strong>Jianshu Zhang</strong></h1>
       <p>
@@ -269,11 +274,11 @@
 
       <article id="research">
         <h2>Research Interests</h2>
-        <p>To ask how VLMs can truly step into our world, I approach the problem through three guiding questions.</p>
+        <p>How VLMs can truly step into our world?</p>
         <ul>
-          <li><strong>Where are the bottlenecks?</strong> VLMs inherit language-model data biases: text corpora are abundant, high-quality multimodal corpora are scarce. I pursue <em>data-centric</em> pipelines that automatically curate rich, trustworthy multimodal data so models gain the grounding they lack.</li>
-          <li><strong>How should VLMs learn?</strong> Vision signals are continuous and environments are dynamic, making alignment difficult. I focus on <em>context-sensitive multimodal learning</em> so VLMs can adapt their behavior to diverse settings through in-context cues.</li>
-          <li><strong>How can VLMs interact with the physical world?</strong> I investigate <em>spatial reasoning</em> and <em>memory-driven action planning</em> so VLM-based agents can translate past exploration into informed actions while navigating real spaces.</li>
+          <li><strong>Where are the bottlenecks?</strong> VLMs inherit language-model data biases: text corpora are abundant, high-quality multimodal corpora are scarce. To address this imbalance, I pursue <em>data-centric</em> approaches that automatically curate rich, high-quality multimodal data so models gain the grounding they lack.</li>
+          <li><strong>How should VLMs learn?</strong> Vision signals are continuous and environments are dynamic, making alignment difficult. Rather than relying on static training signals, I focus on <em>context-sensitive multimodal learning</em> so VLMs can adapt their behavior to diverse settings through in-context cues.</li>
+          <li><strong>How can VLMs interact with the physical world?</strong> Moving from perception to action requires more than recognition — VLMs need to understand spatial structure and leverage past experience. With this goal, I study <em>spatial intelligence</em> and <em>memory-driven action planning</em> so VLM-based agents can translate self-exploration into meaningful actions while navigating real spaces.</li>
         </ul>
       </article>
 
@@ -403,5 +408,6 @@
         </p>
       </article>
     </section>
+    </div>
   </body>
 </html>
